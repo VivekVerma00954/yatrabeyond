@@ -1,0 +1,18 @@
+{
+  "name": "yatrabeyond-scripts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Standalone data-sync tooling for YatraBeyond. Deliberately its own package, separate from web/, so the Postgres driver and DB credentials never touch the deployed website's dependency tree or runtime.",
+  "scripts": {
+    "sync": "node sync-csv-to-postgres.mjs",
+    "sync:dry-run": "node sync-csv-to-postgres.mjs --dry-run",
+    "export": "node export-content-from-db.mjs",
+    "export:preview": "node export-content-from-db.mjs --include-drafts",
+    "export:csv-fallback": "node export-content-from-csv.mjs",
+    "export:csv-fallback:preview": "node export-content-from-csv.mjs --include-drafts"
+  },
+  "dependencies": {
+    "pg": "^8.12.0"
+  }
+}

@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── CSS custom properties (brand tokens as CSS variables) ─────────────────── */
+/* These mirror tailwind.config.ts colours so non-Tailwind CSS can use them.   */
+:root {
+  --color-bg:           #FFFDF8;
+  --color-surface:      #F4ECDD; /* brand-cream */
+  --color-text:         #3A2A1E; /* brand-brown */
+  --color-accent:       #B5532E; /* brand-terracotta */
+  --color-highlight:    #C9A227; /* brand-gold */
+
+  /* Typography scale (rem) */
+  --text-xs:   0.75rem;
+  --text-sm:   0.875rem;
+  --text-base: 1rem;
+  --text-lg:   1.125rem;
+  --text-xl:   1.25rem;
+  --text-2xl:  1.5rem;
+  --text-3xl:  1.875rem;
+  --text-4xl:  2.25rem;
+  --text-5xl:  3rem;
+}
+
+.dark {
+  --color-bg:           #120D08;
+  --color-surface:      #2A1E14;
+  --color-text:         #F4ECDD;
+  --color-accent:       #D4653A; /* slightly lightened for dark bg contrast */
+  --color-highlight:    #D4AE3A;
+}
+
+/* ── Base resets ────────────────────────────────────────────────────────────── */
+@layer base {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-[var(--color-bg)] text-brand-brown dark:text-brand-cream font-sans antialiased;
+    min-height: 100dvh;
+  }
+
+  /* Visible focus ring for keyboard users — respects prefers-reduced-motion */
+  :focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  /* Remove default focus for mouse users */
+  :focus:not(:focus-visible) {
+    outline: none;
+  }
+
+  /* Respect reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+    html {
+      scroll-behavior: auto;
+    }
+  }
+
+  /* Heading hierarchy */
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+
+  /* Skip-to-main link for keyboard/screen reader users */
+  .skip-nav {
+    @apply sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[100];
+    @apply bg-brand-terracotta text-white px-4 py-2 rounded-md font-sans text-sm font-medium;
+  }
+}
+
+/* ── Print styles (people print prayers for the puja shelf) ─────────────────── */
+@media print {
+  header,
+  footer,
+  nav,
+  .skip-nav {
+    display: none !important;
+  }
+
+  body {
+    background: white;
+    color: black;
+  }
+
+  /* Keep stanza blocks intact across page breaks */
+  section[aria-label] {
+    break-inside: avoid;
+  }
+}
+
+/* ── Utility layer additions ────────────────────────────────────────────────── */
+@layer utilities {
+  /* Smooth underline links */
+  .link {
+    @apply text-brand-terracotta underline-offset-2 hover:underline;
+  }
+
+  /* Section band (cream tinted background) */
+  .band-cream {
+    @apply bg-brand-cream dark:bg-brand-brown/30;
+  }
+
+  /* Gold decorative rule */
+  .rule-gold {
+    @apply border-t-2 border-brand-gold/50;
+  }
+}

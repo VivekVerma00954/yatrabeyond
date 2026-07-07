@@ -1,0 +1,21 @@
+{
+  "name": "YatraBeyond",
+  "short_name": "YatraBeyond",
+  "description": "The most trusted knowledge platform for sacred pilgrimage journeys across India.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFDF8",
+  "theme_color": "#3A2A1E",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

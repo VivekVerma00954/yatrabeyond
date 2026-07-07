@@ -1,0 +1,55 @@
+﻿deity_key,display_name,deity_group,tradition,aliases,notes
+shiva,Shiva,shiva,Shaivism,,"Kedarnath, Kashi, the 12 Jyotirlingas"
+bhairava,Kaal Bhairav,shiva,Shaivism,bhairav,Form of Shiva; Kashi
+parvati,Parvati,shakti,Shaktism,,Consort of Shiva
+annapurna,Annapurna,shakti,Shaktism,,Form of Parvati; enshrined at Kashi
+durga,Durga,shakti,Shaktism,ambe;amba,
+kali,Kali,shakti,Shaktism,,
+lalita,Lalita Tripurasundari,shakti,Shaktism / Srividya,,
+devi,Devi (generic Goddess),shakti,Shaktism,,Use when the aspect is unspecified
+vaishno-devi,Vaishno Devi,shakti,Shaktism,,Modern text; hold
+vindhyavasini,Vindhyavasini,shakti,Shaktism,,
+santoshi,Santoshi Mata,shakti,Shaktism (modern),,20th-c; hold text
+ahoi,Ahoi Mata,shakti,Folk / Shaktism,,
+sheetala,Sheetala Mata,shakti,Folk / Shaktism,sheetla;shitala,
+gayatri,Gayatri,shakti,Smarta / Vedic,,Veda-mata
+saraswati,Saraswati,shakti,Smarta (Tridevi),,
+lakshmi,Lakshmi,shakti,Vaishnavism (Tridevi),mahalakshmi,Consort of Vishnu
+karva,Karva Mata,shakti,Folk,,Karwa Chauth
+vishnu,Vishnu,vishnu,Vaishnavism,satyanarayan,
+rama,Rama,vishnu,Vaishnavism,,Ayodhya
+krishna,Krishna,vishnu,Vaishnavism,banke-bihari,Braj; Banke Bihari
+radha,Radha,vishnu,Vaishnavism,,Consort of Krishna; Braj
+vitthala,Vitthala / Vithoba,vishnu,Vaishnavism (Varkari),vithoba,Pandharpur
+jagannath,Jagannath,vishnu,Vaishnavism,,Puri
+venkateswara,Venkateswara (Balaji),vishnu,Vaishnavism,balaji;tirupati,Tirumala; modern Hindi aarti held
+khatu-shyam,Khatu Shyam,vishnu,Vaishnavism (Krishna / Barbarika),,Rajasthan; modern; hold text
+dhanvantari,Dhanvantari,vishnu,Vaishnavism,,Avatar of Vishnu; Dhanteras
+tulsi,Tulsi,vishnu,Vaishnavism,,Sacred plant; Vishnu-associated
+ganesha,Ganesha,ganesha,Ganapatya,ganpati;ganapati,
+kartikeya,Kartikeya / Murugan,kartikeya,Kaumaram,murugan;subrahmanya,South India; son of Shiva
+hanuman,Hanuman,hanuman,,bajrangbali,
+surya,Surya,surya,Saura,,Sun; Konark; also a graha
+navagraha,Navagraha (collective),navagraha,,,The nine grahas as a set
+mangal,Mangal (Mars),navagraha,,,Graha
+budh,Budh (Mercury),navagraha,,,Graha
+brihaspati,Brihaspati (Jupiter),navagraha,,guru-graha,Graha; Thursday vrat
+shukra,Shukra (Venus),navagraha,,,Graha
+shani,Shani,navagraha,,,Graha; also independent worship (Shingnapur)
+rahu,Rahu,navagraha,,,Graha
+ketu,Ketu,navagraha,,,Graha
+chandra,Chandra (Moon),navagraha,,,Graha
+ganga,Ganga,river,,,"River goddess; Haridwar, Varanasi"
+yamuna,Yamuna,river,,,River goddess; Braj
+narmada,Narmada,river,,,River goddess
+dattatreya,Dattatreya,saint-guru,,datta,Trimurti; Maharashtra
+guru,Guru (preceptor),saint-guru,,,Guru principle (Gurur Brahma...)
+sai-baba,Shirdi Sai Baba,saint-guru,,,Modern; hold text
+swaminarayan,Swaminarayan,saint-guru,Swaminarayan Sampraday,,Gujarat
+nangli-sahib,Swaroopanand (Nangli Sahib),saint-guru,Paramhans Advait Mat,,Meerut; modern; hold text
+ayyappa,Ayyappa,ayyappa,Shaiva-Vaishnava synthesis,,Sabarimala; Harivarasanam held
+jhulelal,Jhulelal,folk,Sindhi (Varuna),,Post-Partition; hold text
+vishwakarma,Vishwakarma,other,,,Deva of craft
+savitri,Savitri,legend,,,Vat Savitri; Mahabharata heroine
+saptarishi,Sapta Rishi,other,,,Rishi Panchami
+jimutavahana,Jimutavahana,legend,,,Jitiya / Jivitputrika

@@ -1,0 +1,465 @@
+[
+  {
+    "deity_key": "shiva",
+    "name": "Shiva",
+    "deity_group": "shiva",
+    "tradition": "Shaivism",
+    "aliases": [],
+    "notes": "Kedarnath, Kashi, the 12 Jyotirlingas"
+  },
+  {
+    "deity_key": "bhairava",
+    "name": "Kaal Bhairav",
+    "deity_group": "shiva",
+    "tradition": "Shaivism",
+    "aliases": [
+      "bhairav"
+    ],
+    "notes": "Form of Shiva; Kashi"
+  },
+  {
+    "deity_key": "parvati",
+    "name": "Parvati",
+    "deity_group": "shakti",
+    "tradition": "Shaktism",
+    "aliases": [],
+    "notes": "Consort of Shiva"
+  },
+  {
+    "deity_key": "annapurna",
+    "name": "Annapurna",
+    "deity_group": "shakti",
+    "tradition": "Shaktism",
+    "aliases": [],
+    "notes": "Form of Parvati; enshrined at Kashi"
+  },
+  {
+    "deity_key": "durga",
+    "name": "Durga",
+    "deity_group": "shakti",
+    "tradition": "Shaktism",
+    "aliases": [
+      "ambe",
+      "amba"
+    ],
+    "notes": null
+  },
+  {
+    "deity_key": "kali",
+    "name": "Kali",
+    "deity_group": "shakti",
+    "tradition": "Shaktism",
+    "aliases": [],
+    "notes": null
+  },
+  {
+    "deity_key": "lalita",
+    "name": "Lalita Tripurasundari",
+    "deity_group": "shakti",
+    "tradition": "Shaktism / Srividya",
+    "aliases": [],
+    "notes": null
+  },
+  {
+    "deity_key": "devi",
+    "name": "Devi (generic Goddess)",
+    "deity_group": "shakti",
+    "tradition": "Shaktism",
+    "aliases": [],
+    "notes": "Use when the aspect is unspecified"
+  },
+  {
+    "deity_key": "vaishno-devi",
+    "name": "Vaishno Devi",
+    "deity_group": "shakti",
+    "tradition": "Shaktism",
+    "aliases": [],
+    "notes": "Modern text; hold"
+  },
+  {
+    "deity_key": "vindhyavasini",
+    "name": "Vindhyavasini",
+    "deity_group": "shakti",
+    "tradition": "Shaktism",
+    "aliases": [],
+    "notes": null
+  },
+  {
+    "deity_key": "santoshi",
+    "name": "Santoshi Mata",
+    "deity_group": "shakti",
+    "tradition": "Shaktism (modern)",
+    "aliases": [],
+    "notes": "20th-c; hold text"
+  },
+  {
+    "deity_key": "ahoi",
+    "name": "Ahoi Mata",
+    "deity_group": "shakti",
+    "tradition": "Folk / Shaktism",
+    "aliases": [],
+    "notes": null
+  },
+  {
+    "deity_key": "sheetala",
+    "name": "Sheetala Mata",
+    "deity_group": "shakti",
+    "tradition": "Folk / Shaktism",
+    "aliases": [
+      "sheetla",
+      "shitala"
+    ],
+    "notes": null
+  },
+  {
+    "deity_key": "gayatri",
+    "name": "Gayatri",
+    "deity_group": "shakti",
+    "tradition": "Smarta / Vedic",
+    "aliases": [],
+    "notes": "Veda-mata"
+  },
+  {
+    "deity_key": "saraswati",
+    "name": "Saraswati",
+    "deity_group": "shakti",
+    "tradition": "Smarta (Tridevi)",
+    "aliases": [],
+    "notes": null
+  },
+  {
+    "deity_key": "lakshmi",
+    "name": "Lakshmi",
+    "deity_group": "shakti",
+    "tradition": "Vaishnavism (Tridevi)",
+    "aliases": [
+      "mahalakshmi"
+    ],
+    "notes": "Consort of Vishnu"
+  },
+  {
+    "deity_key": "karva",
+    "name": "Karva Mata",
+    "deity_group": "shakti",
+    "tradition": "Folk",
+    "aliases": [],
+    "notes": "Karwa Chauth"
+  },
+  {
+    "deity_key": "vishnu",
+    "name": "Vishnu",
+    "deity_group": "vishnu",
+    "tradition": "Vaishnavism",
+    "aliases": [
+      "satyanarayan"
+    ],
+    "notes": null
+  },
+  {
+    "deity_key": "rama",
+    "name": "Rama",
+    "deity_group": "vishnu",
+    "tradition": "Vaishnavism",
+    "aliases": [],
+    "notes": "Ayodhya"
+  },
+  {
+    "deity_key": "krishna",
+    "name": "Krishna",
+    "deity_group": "vishnu",
+    "tradition": "Vaishnavism",
+    "aliases": [
+      "banke-bihari"
+    ],
+    "notes": "Braj; Banke Bihari"
+  },
+  {
+    "deity_key": "radha",
+    "name": "Radha",
+    "deity_group": "vishnu",
+    "tradition": "Vaishnavism",
+    "aliases": [],
+    "notes": "Consort of Krishna; Braj"
+  },
+  {
+    "deity_key": "vitthala",
+    "name": "Vitthala / Vithoba",
+    "deity_group": "vishnu",
+    "tradition": "Vaishnavism (Varkari)",
+    "aliases": [
+      "vithoba"
+    ],
+    "notes": "Pandharpur"
+  },
+  {
+    "deity_key": "jagannath",
+    "name": "Jagannath",
+    "deity_group": "vishnu",
+    "tradition": "Vaishnavism",
+    "aliases": [],
+    "notes": "Puri"
+  },
+  {
+    "deity_key": "venkateswara",
+    "name": "Venkateswara (Balaji)",
+    "deity_group": "vishnu",
+    "tradition": "Vaishnavism",
+    "aliases": [
+      "balaji",
+      "tirupati"
+    ],
+    "notes": "Tirumala; modern Hindi aarti held"
+  },
+  {
+    "deity_key": "khatu-shyam",
+    "name": "Khatu Shyam",
+    "deity_group": "vishnu",
+    "tradition": "Vaishnavism (Krishna / Barbarika)",
+    "aliases": [],
+    "notes": "Rajasthan; modern; hold text"
+  },
+  {
+    "deity_key": "dhanvantari",
+    "name": "Dhanvantari",
+    "deity_group": "vishnu",
+    "tradition": "Vaishnavism",
+    "aliases": [],
+    "notes": "Avatar of Vishnu; Dhanteras"
+  },
+  {
+    "deity_key": "tulsi",
+    "name": "Tulsi",
+    "deity_group": "vishnu",
+    "tradition": "Vaishnavism",
+    "aliases": [],
+    "notes": "Sacred plant; Vishnu-associated"
+  },
+  {
+    "deity_key": "ganesha",
+    "name": "Ganesha",
+    "deity_group": "ganesha",
+    "tradition": "Ganapatya",
+    "aliases": [
+      "ganpati",
+      "ganapati"
+    ],
+    "notes": null
+  },
+  {
+    "deity_key": "kartikeya",
+    "name": "Kartikeya / Murugan",
+    "deity_group": "kartikeya",
+    "tradition": "Kaumaram",
+    "aliases": [
+      "murugan",
+      "subrahmanya"
+    ],
+    "notes": "South India; son of Shiva"
+  },
+  {
+    "deity_key": "hanuman",
+    "name": "Hanuman",
+    "deity_group": "hanuman",
+    "tradition": null,
+    "aliases": [
+      "bajrangbali"
+    ],
+    "notes": null
+  },
+  {
+    "deity_key": "surya",
+    "name": "Surya",
+    "deity_group": "surya",
+    "tradition": "Saura",
+    "aliases": [],
+    "notes": "Sun; Konark; also a graha"
+  },
+  {
+    "deity_key": "navagraha",
+    "name": "Navagraha (collective)",
+    "deity_group": "navagraha",
+    "tradition": null,
+    "aliases": [],
+    "notes": "The nine grahas as a set"
+  },
+  {
+    "deity_key": "mangal",
+    "name": "Mangal (Mars)",
+    "deity_group": "navagraha",
+    "tradition": null,
+    "aliases": [],
+    "notes": "Graha"
+  },
+  {
+    "deity_key": "budh",
+    "name": "Budh (Mercury)",
+    "deity_group": "navagraha",
+    "tradition": null,
+    "aliases": [],
+    "notes": "Graha"
+  },
+  {
+    "deity_key": "brihaspati",
+    "name": "Brihaspati (Jupiter)",
+    "deity_group": "navagraha",
+    "tradition": null,
+    "aliases": [
+      "guru-graha"
+    ],
+    "notes": "Graha; Thursday vrat"
+  },
+  {
+    "deity_key": "shukra",
+    "name": "Shukra (Venus)",
+    "deity_group": "navagraha",
+    "tradition": null,
+    "aliases": [],
+    "notes": "Graha"
+  },
+  {
+    "deity_key": "shani",
+    "name": "Shani",
+    "deity_group": "navagraha",
+    "tradition": null,
+    "aliases": [],
+    "notes": "Graha; also independent worship (Shingnapur)"
+  },
+  {
+    "deity_key": "rahu",
+    "name": "Rahu",
+    "deity_group": "navagraha",
+    "tradition": null,
+    "aliases": [],
+    "notes": "Graha"
+  },
+  {
+    "deity_key": "ketu",
+    "name": "Ketu",
+    "deity_group": "navagraha",
+    "tradition": null,
+    "aliases": [],
+    "notes": "Graha"
+  },
+  {
+    "deity_key": "chandra",
+    "name": "Chandra (Moon)",
+    "deity_group": "navagraha",
+    "tradition": null,
+    "aliases": [],
+    "notes": "Graha"
+  },
+  {
+    "deity_key": "ganga",
+    "name": "Ganga",
+    "deity_group": "river",
+    "tradition": null,
+    "aliases": [],
+    "notes": "River goddess; Haridwar, Varanasi"
+  },
+  {
+    "deity_key": "yamuna",
+    "name": "Yamuna",
+    "deity_group": "river",
+    "tradition": null,
+    "aliases": [],
+    "notes": "River goddess; Braj"
+  },
+  {
+    "deity_key": "narmada",
+    "name": "Narmada",
+    "deity_group": "river",
+    "tradition": null,
+    "aliases": [],
+    "notes": "River goddess"
+  },
+  {
+    "deity_key": "dattatreya",
+    "name": "Dattatreya",
+    "deity_group": "saint-guru",
+    "tradition": null,
+    "aliases": [
+      "datta"
+    ],
+    "notes": "Trimurti; Maharashtra"
+  },
+  {
+    "deity_key": "guru",
+    "name": "Guru (preceptor)",
+    "deity_group": "saint-guru",
+    "tradition": null,
+    "aliases": [],
+    "notes": "Guru principle (Gurur Brahma...)"
+  },
+  {
+    "deity_key": "sai-baba",
+    "name": "Shirdi Sai Baba",
+    "deity_group": "saint-guru",
+    "tradition": null,
+    "aliases": [],
+    "notes": "Modern; hold text"
+  },
+  {
+    "deity_key": "swaminarayan",
+    "name": "Swaminarayan",
+    "deity_group": "saint-guru",
+    "tradition": "Swaminarayan Sampraday",
+    "aliases": [],
+    "notes": "Gujarat"
+  },
+  {
+    "deity_key": "nangli-sahib",
+    "name": "Swaroopanand (Nangli Sahib)",
+    "deity_group": "saint-guru",
+    "tradition": "Paramhans Advait Mat",
+    "aliases": [],
+    "notes": "Meerut; modern; hold text"
+  },
+  {
+    "deity_key": "ayyappa",
+    "name": "Ayyappa",
+    "deity_group": "ayyappa",
+    "tradition": "Shaiva-Vaishnava synthesis",
+    "aliases": [],
+    "notes": "Sabarimala; Harivarasanam held"
+  },
+  {
+    "deity_key": "jhulelal",
+    "name": "Jhulelal",
+    "deity_group": "folk",
+    "tradition": "Sindhi (Varuna)",
+    "aliases": [],
+    "notes": "Post-Partition; hold text"
+  },
+  {
+    "deity_key": "vishwakarma",
+    "name": "Vishwakarma",
+    "deity_group": "other",
+    "tradition": null,
+    "aliases": [],
+    "notes": "Deva of craft"
+  },
+  {
+    "deity_key": "savitri",
+    "name": "Savitri",
+    "deity_group": "legend",
+    "tradition": null,
+    "aliases": [],
+    "notes": "Vat Savitri; Mahabharata heroine"
+  },
+  {
+    "deity_key": "saptarishi",
+    "name": "Sapta Rishi",
+    "deity_group": "other",
+    "tradition": null,
+    "aliases": [],
+    "notes": "Rishi Panchami"
+  },
+  {
+    "deity_key": "jimutavahana",
+    "name": "Jimutavahana",
+    "deity_group": "legend",
+    "tradition": null,
+    "aliases": [],
+    "notes": "Jitiya / Jivitputrika"
+  }
+]

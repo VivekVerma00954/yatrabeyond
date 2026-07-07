@@ -1,0 +1,19 @@
+# Dependencies & build output
+node_modules/
+.next/
+*.tsbuildinfo
+
+# Secrets — never committed (see docs/DROPLET_ACCESS.md)
+.env
+.env.*
+!.env.example
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+
+# Local review copies (regenerated from data/)
+~$*.xlsx
+
+# Local Claude Code settings
+**/.claude/settings.local.json
