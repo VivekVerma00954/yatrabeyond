@@ -1,3 +1,5 @@
+export const runtime = 'edge';
+
 import type { Metadata } from "next";
 import { getAllSites, getAllRegions } from "@/lib/content";
 import { SiteCard } from "@/components/SiteCard";
