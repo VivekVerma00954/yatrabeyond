@@ -17,3 +17,8 @@ Thumbs.db
 
 # Local Claude Code settings
 **/.claude/settings.local.json
+
+# Personal info — this repo is public on GitHub. Real name, work email,
+# employer, and personal circumstances do not belong in it. Added
+# 2026-07-19 after finding this file untracked and about to be pushed.
+PERSONAL_PROFILE.md

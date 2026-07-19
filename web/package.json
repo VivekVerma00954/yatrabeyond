@@ -25,7 +25,10 @@
     "rehype-autolink-headings": "^7.1.0",
     "flexsearch": "^0.7.43",
     "clsx": "^2.1.1",
-    "tailwind-merge": "^2.3.0"
+    "tailwind-merge": "^2.3.0",
+    "@fontsource/inter": "^5.2.8",
+    "@fontsource/lora": "^5.2.8",
+    "@fontsource/noto-serif-devanagari": "^5.2.10"
   },
   "devDependencies": {
     "@types/node": "^20.14.0",

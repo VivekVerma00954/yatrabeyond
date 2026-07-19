@@ -20,6 +20,7 @@ vishnu,Vishnu,vishnu,Vaishnavism,satyanarayan,
 rama,Rama,vishnu,Vaishnavism,,Ayodhya
 krishna,Krishna,vishnu,Vaishnavism,banke-bihari,Braj; Banke Bihari
 radha,Radha,vishnu,Vaishnavism,,Consort of Krishna; Braj
+sita,Sita,vishnu,Vaishnavism,"janaki;maithili;vaidehi","Consort of Rama; Mithila. Added 2026-07-14 (was previously missing from the registry; several site pages used 'radha' as a placeholder key, now corrected)."
 vitthala,Vitthala / Vithoba,vishnu,Vaishnavism (Varkari),vithoba,Pandharpur
 jagannath,Jagannath,vishnu,Vaishnavism,,Puri
 venkateswara,Venkateswara (Balaji),vishnu,Vaishnavism,balaji;tirupati,Tirumala; modern Hindi aarti held
@@ -53,3 +54,15 @@ vishwakarma,Vishwakarma,other,,,Deva of craft
 savitri,Savitri,legend,,,Vat Savitri; Mahabharata heroine
 saptarishi,Sapta Rishi,other,,,Rishi Panchami
 jimutavahana,Jimutavahana,legend,,,Jitiya / Jivitputrika
+lakshmana,Lakshmana,vishnu,Vaishnavism,laxman;lakshman,"Brother of Rama; avatar of Shesha; Lakshman temple at Rishikesh. Added 2026-07-16."
+brahma,Brahma,brahma,Smarta / Trimurti,,"Creator of the Trimurti; only major temple at Pushkar. Added 2026-07-16."
+navadurga,Navadurga (collective),navadurga,Shaktism,navdurga,"The nine forms of Durga as a set, worshipped over Navratri. Added 2026-07-18."
+shailaputri,Shailaputri,navadurga,Shaktism,,"First of the Navadurga; identified with Parvati as Himavat's daughter, previously Sati. Added 2026-07-18."
+brahmacharini,Brahmacharini,navadurga,Shaktism,,"Second of the Navadurga; Parvati in ascetic form. Added 2026-07-18."
+chandraghanta,Chandraghanta,navadurga,Shaktism,,"Third of the Navadurga; Shiva's shakti as Chandrashekhara. Added 2026-07-18."
+kushmanda,Kushmanda,navadurga,Shaktism,,"Fourth of the Navadurga; creator of the universe. Added 2026-07-18."
+skandamata,Skandamata,navadurga,Shaktism,,"Fifth of the Navadurga; mother of Kartikeya. Added 2026-07-18."
+katyayani,Katyayani,navadurga,Shaktism,,"Sixth of the Navadurga; slayer of Mahishasura; Tulja Bhavani, Bhosale family deity. Added 2026-07-18."
+kalaratri,Kalaratri,navadurga,Shaktism,,"Seventh of the Navadurga; often conflated with Kali. Added 2026-07-18."
+mahagauri,Mahagauri,navadurga,Shaktism,,"Eighth of the Navadurga. Added 2026-07-18."
+siddhidatri,Siddhidatri,navadurga,Shaktism,siddhidhatri,"Ninth and last of the Navadurga. Added 2026-07-18."

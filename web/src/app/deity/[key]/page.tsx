@@ -3,23 +3,44 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getAllDeities, getAllWorks, getDeityByKey, getWorksByDeity } from "@/lib/prayers";
 import { getAllSites } from "@/lib/content";
+import { getAllDeityProfiles, getDeityProfileByKey } from "@/lib/deityProfiles";
 import { breadcrumbJsonLd } from "@/lib/structured-data";
 import { PrayerCard } from "@/components/prayer/PrayerCard";
 import { SiteCard } from "@/components/SiteCard";
 import { Badge } from "@/components/ui/Badge";
+import { MarkdownContent } from "@/components/ui/MarkdownContent";
+import { DraftBanner } from "@/components/prayer/DraftBanner";
 
 interface PageProps {
   params: { key: string };
 }
 
+// Deity-profile section nav config: order and labels.
+const PROFILE_SECTIONS: Array<{
+  id: string;
+  title: string;
+  field: keyof NonNullable<ReturnType<typeof getDeityProfileByKey>>;
+}> = [
+  { id: "who-is", title: "Who is {name}", field: "quickIdentity" },
+  { id: "names", title: "Names & Epithets", field: "namesAndEpithets" },
+  { id: "iconography", title: "Iconography & Symbols", field: "iconographyAndSymbols" },
+  { id: "stories", title: "Key Stories", field: "keyStories" },
+  { id: "family", title: "Family & Relations", field: "familyAndRelations" },
+  { id: "significance", title: "Significance", field: "significance" },
+  { id: "regional", title: "Regional & Sectarian Variation", field: "regionalVariation" },
+];
+
 export function generateStaticParams() {
-  // Static pages only for deities that currently have content (prayers or
-  // sites) — empty hubs add crawl noise, not value. The full registry still
-  // renders on /deity.
+  // Static pages only for deities that currently have content (prayers,
+  // sites, or a profile). Empty hubs add crawl noise, not value. The full
+  // registry still renders on /deity.
   const withWorks = new Set(getAllWorks().map((w) => w.deity_key).filter(Boolean));
   for (const site of getAllSites()) {
     if (site.primaryDeity) withWorks.add(site.primaryDeity);
     for (const key of site.relatedDeities ?? []) withWorks.add(key);
+  }
+  for (const profile of getAllDeityProfiles()) {
+    withWorks.add(profile.deityKey);
   }
   return getAllDeities()
     .filter((d) => withWorks.has(d.deity_key))
@@ -29,9 +50,13 @@ export function generateStaticParams() {
 export function generateMetadata({ params }: PageProps): Metadata {
   const deity = getDeityByKey(params.key);
   if (!deity) return {};
+  const profile = getDeityProfileByKey(params.key);
   return {
-    title: `${deity.name} — Prayers, Sacred Sites & Tradition`,
+    title: `${deity.name}: Prayers, Sacred Sites & Tradition`,
     description: `${deity.name}: aartis, chalisas and prayers with verified lyrics and meanings, plus the sacred sites where ${deity.name} presides.`,
+    // A deity profile that hasn't cleared human review is readable in preview
+    // builds but must never be indexed. Same convention as draft prayers.
+    ...(profile && !profile.reviewed && { robots: { index: false, follow: false } }),
   };
 }
 
@@ -39,6 +64,7 @@ export default function DeityHubPage({ params }: PageProps) {
   const deity = getDeityByKey(params.key);
   if (!deity) notFound();
 
+  const profile = getDeityProfileByKey(params.key);
   const deities = getAllDeities();
   const works = getWorksByDeity(deity.deity_key);
   const sites = getAllSites().filter(
@@ -93,7 +119,48 @@ export default function DeityHubPage({ params }: PageProps) {
           )}
         </header>
 
-        {/* ── Prayers ─────────────────────────────────────────────────────── */}
+        {/* Deity profile: who/iconography/stories/family/significance */}
+        {profile && (
+          <section aria-labelledby="deity-profile" className="mb-12 space-y-8">
+            {!profile.reviewed && <DraftBanner />}
+            {PROFILE_SECTIONS.map(({ id, title, field }) => {
+              const content = profile[field];
+              if (typeof content !== "string" || !content.trim()) return null;
+              return (
+                <div key={id} id={id}>
+                  <h2
+                    id={`deity-profile-${id}`}
+                    className="mb-2 font-serif text-2xl font-semibold text-brand-brown dark:text-brand-cream"
+                  >
+                    {title.replace("{name}", deity.name)}
+                  </h2>
+                  <MarkdownContent content={content} />
+                </div>
+              );
+            })}
+            {profile.sources.length > 0 && (
+              <div className="rounded-xl border border-brand-brown/10 bg-brand-brown/5 p-4 font-sans text-xs text-brand-brown/60 dark:border-brand-cream/10 dark:bg-brand-cream/5 dark:text-brand-cream/60">
+                <p className="mb-1 font-semibold uppercase tracking-wide">Sources</p>
+                <ul className="space-y-0.5">
+                  {profile.sources.map((source, i) => (
+                    <li key={i}>
+                      {source.url ? (
+                        <a href={source.url} className="underline hover:text-brand-terracotta">
+                          {source.title}
+                        </a>
+                      ) : (
+                        source.title
+                      )}
+                    </li>
+                  ))}
+                </ul>
+                <p className="mt-2">Last reviewed: {profile.lastReviewed}</p>
+              </div>
+            )}
+          </section>
+        )}
+
+        {/* Prayers */}
         <section aria-labelledby="deity-prayers" className="mb-12">
           <h2
             id="deity-prayers"
@@ -109,13 +176,13 @@ export default function DeityHubPage({ params }: PageProps) {
             </div>
           ) : (
             <p className="rounded-xl border border-dashed border-brand-brown/20 p-6 font-sans text-sm text-brand-brown/50 dark:border-brand-cream/20 dark:text-brand-cream/50">
-              Prayers for {deity.name} are in production — sourcing and review come before
+              Prayers for {deity.name} are in production, sourcing and review come before
               publication.
             </p>
           )}
         </section>
 
-        {/* ── Sacred sites ────────────────────────────────────────────────── */}
+        {/* Sacred sites */}
         <section aria-labelledby="deity-sites" className="mb-12">
           <h2
             id="deity-sites"
@@ -136,7 +203,7 @@ export default function DeityHubPage({ params }: PageProps) {
           )}
         </section>
 
-        {/* ── Same tradition ──────────────────────────────────────────────── */}
+        {/* Same tradition */}
         {sameGroup.length > 0 && (
           <section aria-labelledby="deity-related">
             <h2

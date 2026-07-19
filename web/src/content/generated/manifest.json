@@ -1,10 +1,10 @@
 {
   "source": "csv-fallback",
-  "generatedAt": "2026-07-07T05:01:58.470Z",
+  "generatedAt": "2026-07-19T03:15:22.899Z",
   "includesDrafts": true,
   "counts": {
-    "deities": 54,
-    "worksPublishable": 0,
+    "deities": 67,
+    "worksPublishable": 5,
     "worksDraft": 32
   },
   "note": "Generated from data/*.csv (fallback). Re-run export-content-from-db.mjs against the live database before deploying."

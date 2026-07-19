@@ -1,31 +1,69 @@
 import type { Metadata, Viewport } from "next";
-import { Lora, Inter, Noto_Serif_Devanagari } from "next/font/google";
+import localFont from "next/font/local";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import "./globals.css";
 
-// ── Fonts (loaded via next/font — zero layout shift, self-hosted from Google) ─
-const lora = Lora({
-  subsets: ["latin"],
+// ── Fonts (loaded via next/font/local — font files vendored in src/fonts/,
+// not fetched from Google at build time. Switched 2026-07-19: next/font/google
+// needs network access to fonts.googleapis.com during every build, which
+// fails on networks that block/can't resolve that domain (seen on a
+// corporate-network build). Files here came from the @fontsource npm
+// packages (SIL Open Font License, LICENSE copied alongside each), same
+// upstream font files Google serves, just vendored instead of fetched. ──
+const lora = localFont({
   variable: "--font-lora",
   display: "swap",
-  weight: ["400", "500", "600", "700"],
-  style: ["normal", "italic"],
+  src: [
+    { path: "../fonts/lora/lora-latin-400-normal.woff2", weight: "400", style: "normal" },
+    { path: "../fonts/lora/lora-latin-400-italic.woff2", weight: "400", style: "italic" },
+    { path: "../fonts/lora/lora-latin-500-normal.woff2", weight: "500", style: "normal" },
+    { path: "../fonts/lora/lora-latin-500-italic.woff2", weight: "500", style: "italic" },
+    { path: "../fonts/lora/lora-latin-600-normal.woff2", weight: "600", style: "normal" },
+    { path: "../fonts/lora/lora-latin-600-italic.woff2", weight: "600", style: "italic" },
+    { path: "../fonts/lora/lora-latin-700-normal.woff2", weight: "700", style: "normal" },
+    { path: "../fonts/lora/lora-latin-700-italic.woff2", weight: "700", style: "italic" },
+  ],
 });
 
-const inter = Inter({
-  subsets: ["latin"],
+const inter = localFont({
   variable: "--font-inter",
   display: "swap",
+  src: [
+    { path: "../fonts/inter/inter-latin-400-normal.woff", weight: "400", style: "normal" },
+    { path: "../fonts/inter/inter-latin-500-normal.woff", weight: "500", style: "normal" },
+    { path: "../fonts/inter/inter-latin-600-normal.woff", weight: "600", style: "normal" },
+    { path: "../fonts/inter/inter-latin-700-normal.woff", weight: "700", style: "normal" },
+  ],
 });
 
 // First-class Devanagari face for the prayer reader — system fallback
 // rendering of conjuncts/matras is not acceptable for sacred text.
-const notoSerifDevanagari = Noto_Serif_Devanagari({
-  subsets: ["devanagari"],
+const notoSerifDevanagari = localFont({
   variable: "--font-devanagari",
   display: "swap",
-  weight: ["400", "500", "600", "700"],
+  src: [
+    {
+      path: "../fonts/noto-serif-devanagari/noto-serif-devanagari-400-normal.woff2",
+      weight: "400",
+      style: "normal",
+    },
+    {
+      path: "../fonts/noto-serif-devanagari/noto-serif-devanagari-500-normal.woff2",
+      weight: "500",
+      style: "normal",
+    },
+    {
+      path: "../fonts/noto-serif-devanagari/noto-serif-devanagari-600-normal.woff2",
+      weight: "600",
+      style: "normal",
+    },
+    {
+      path: "../fonts/noto-serif-devanagari/noto-serif-devanagari-700-normal.woff2",
+      weight: "700",
+      style: "normal",
+    },
+  ],
 });
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.yatrabeyond.com";

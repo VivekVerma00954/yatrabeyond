@@ -98,25 +98,35 @@ export function buildWorkRows() {
   return rows;
 }
 
+// Segment-line CSVs, keyed by work type. aarti_lines.csv also carries S-prefixed
+// stotram rows (reused rather than duplicated); chalisa and vrat_katha each get
+// their own file, matching the shape below. A file is optional here: if it
+// doesn't exist yet (e.g. vrat_katha_lines.csv before any vrat katha has been
+// sourced), it's skipped rather than treated as an error.
+const SEGMENT_FILES = ["aarti_lines.csv", "chalisa_lines.csv", "vrat_katha_lines.csv"];
+
 export function buildSegmentRows() {
-  // Only aarti_lines.csv exists today; chalisa/stotram/vrat_katha lines will
-  // follow the same shape once they're sourced (see RUNBOOK_lyrics.md).
-  return readCSV("aarti_lines.csv").map((r) => {
-    const row = {
-      work_id: r.aarti_id,
-      section_path: null,
-      order_num: Number(r.line_no),
-      segment_type: r.section || "verse-line",
-      original: r.original || null,
-      original_true_script: r.original_true_script && r.original_true_script !== "NA" ? r.original_true_script : null,
-      translit_roman: r.translit_roman || null,
-      word_by_word: null,
-      commentary: null,
-      notes: r.notes || null,
-    };
-    for (const lang of MEANING_LANGS) {
-      row[`meaning_${lang}`] = r[`meaning_${lang}`] || null;
+  const rows = [];
+  for (const file of SEGMENT_FILES) {
+    if (!fs.existsSync(path.join(DATA_DIR, file))) continue;
+    for (const r of readCSV(file)) {
+      const row = {
+        work_id: r.aarti_id,
+        section_path: null,
+        order_num: Number(r.line_no),
+        segment_type: r.section || "verse-line",
+        original: r.original || null,
+        original_true_script: r.original_true_script && r.original_true_script !== "NA" ? r.original_true_script : null,
+        translit_roman: r.translit_roman || null,
+        word_by_word: null,
+        commentary: null,
+        notes: r.notes || null,
+      };
+      for (const lang of MEANING_LANGS) {
+        row[`meaning_${lang}`] = r[`meaning_${lang}`] || null;
+      }
+      rows.push(row);
     }
-    return row;
-  });
+  }
+  return rows;
 }

@@ -1,0 +1,40 @@
+state_id,name,country_id
+ST-01,Andhra Pradesh,CTRY-01
+ST-02,Assam,CTRY-01
+ST-03,"Bagmati Province, Nepal",CTRY-02
+ST-04,"Balochistan, Pakistan",CTRY-03
+ST-05,Bangladesh,CTRY-06
+ST-06,Bihar,CTRY-01
+ST-07,Delhi,CTRY-01
+ST-08,"Eastern Province, Sri Lanka",CTRY-04
+ST-09,"Gandaki Province, Nepal",CTRY-02
+ST-10,Gujarat,CTRY-01
+ST-11,Haryana,CTRY-01
+ST-12,Himachal Pradesh,CTRY-01
+ST-13,Jammu and Kashmir,CTRY-01
+ST-14,Jharkhand,CTRY-01
+ST-15,Karnataka,CTRY-01
+ST-16,Kerala,CTRY-01
+ST-17,Ladakh (disputed),CTRY-01
+ST-18,Madhya Pradesh,CTRY-01
+ST-19,Madhya Pradesh/Uttar Pradesh border,CTRY-01
+ST-20,Maharashtra,CTRY-01
+ST-21,Meghalaya,CTRY-01
+ST-22,Multi-region,CTRY-01
+ST-23,Multiple,CTRY-01
+ST-24,Nepal,CTRY-02
+ST-25,"Northern Province, Sri Lanka",CTRY-04
+ST-26,Odisha,CTRY-01
+ST-27,Pakistan-administered Kashmir (Azad Jammu and Kashmir),CTRY-03
+ST-28,Puducherry (Union Territory),CTRY-01
+ST-29,Punjab,CTRY-01
+ST-30,Rajasthan,CTRY-01
+ST-31,Tamil Nadu,CTRY-01
+ST-32,Tamil Nadu / Puducherry,CTRY-01
+ST-33,Telangana,CTRY-01
+ST-34,"Tibet Autonomous Region, China",CTRY-05
+ST-35,Tripura,CTRY-01
+ST-36,Uttar Pradesh,CTRY-01
+ST-37,Uttar Pradesh/Madhya Pradesh border (disputed),CTRY-01
+ST-38,Uttarakhand,CTRY-01
+ST-39,West Bengal,CTRY-01

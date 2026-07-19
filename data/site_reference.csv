@@ -1,0 +1,208 @@
+site_id,name,slug,region,state,primary_deity,domain,geo_scope,city_id,file
+TMP-0001,Adi Kailash,adi-kailash,"Kumaon, Pithoragarh district",Uttarakhand,shiva,religious,india,,adi-kailash.mdx
+TMP-0002,"Ahoi Mata Temple, Radha Kund",ahoi-mata-temple-radha-kund,"Radha Kund, Mathura district",Uttar Pradesh,ahoi,religious,india,CTY-004,ahoi-mata-temple-radha-kund.mdx
+TMP-0003,"Swaminarayan Akshardham, Delhi",akshardham-delhi,New Delhi,Delhi,swaminarayan,religious,india,,akshardham-delhi.mdx
+TMP-0004,"Swaminarayan Akshardham, Gandhinagar",akshardham-gandhinagar,Gandhinagar,Gujarat,swaminarayan,religious,india,,akshardham-gandhinagar.mdx
+TMP-0005,Alangudi Guru Temple (Navagraha: Guru Sthalam),alangudi-guru-temple,"Alangudi, Thiruvarur district",Tamil Nadu,brihaspati,religious,india,,alangudi-guru-temple.mdx
+TMP-0006,"Alopi Devi Temple, Prayagraj",alopi-devi-prayagraj,"Alopibagh, near the Sangam",Uttar Pradesh,devi,religious,india,CTY-011,alopi-devi-prayagraj.mdx
+TMP-0007,Amarnath Cave Temple,amarnath,Anantnag district,Jammu and Kashmir,shiva,religious,india,,amarnath.mdx
+TMP-0008,Ambaji Temple,ambaji,"Arasur Hills, Banaskantha district",Gujarat,durga,religious,india,,ambaji.mdx
+TMP-0009,"Ambika Shaktipeeth, Bharatpur",ambika-bharatpur,"Virat Nagar village, near Bharatpur/Alwar",Rajasthan,durga,religious,india,,ambika-bharatpur.mdx
+TMP-0010,"Annapurna Devi Mandir, Varanasi",annapurna-devi-varanasi,"Visheshwarganj, Varanasi, adjacent to Kashi Vishwanath",Uttar Pradesh,annapurna,religious,india,CTY-001,annapurna-devi-varanasi.mdx
+TMP-0011,The Ashtavinayak: Eight Sacred Ganesha Temples of Maharashtra,ashtavinayak-ganesha-temples,"Pune, Raigad, and Ahmednagar districts",Maharashtra,ganesha,religious,india,,ashtavinayak-ganesha-temples.mdx
+TMP-0012,Attahas Temple,attahas,Birbhum district,West Bengal,devi,religious,india,,attahas.mdx
+TMP-0013,Aundha Nagnath Temple,aundha-nagnath,"Aundha Nagnath, Hingoli district",Maharashtra,shiva,religious,india,,aundha-nagnath.mdx
+TMP-0014,Ayodhya,ayodhya,Ayodhya district,Uttar Pradesh,rama,religious,india,CTY-002,ayodhya.mdx
+TMP-0015,Badrinath Temple,badrinath,Chamoli district,Uttarakhand,vishnu,religious,india,,badrinath.mdx
+TMP-0016,"Baglamukhi Temple, Nalkheda",baglamukhi-nalkheda,"Nalkheda, Agar Malwa district",Madhya Pradesh,devi,religious,india,,baglamukhi-nalkheda.mdx
+TMP-0017,Bahula Temple,bahula,Purba Bardhaman district,West Bengal,devi,religious,india,,bahula.mdx
+TMP-0018,"Baijnath Temple, Kangra",baijnath-himachal,"Kangra valley, Kangra district",Himachal Pradesh,shiva,religious,india,,baijnath-himachal.mdx
+TMP-0019,Bakreshwar Temple,bakreshwar,"Birbhum district, on the Paaphra river",West Bengal,durga,religious,india,,bakreshwar.mdx
+TMP-0020,"Ballaleshwar Temple, Pali (Ashtavinayak)",ballaleshwar-pali,"Pali, Raigad district",Maharashtra,ganesha,religious,india,,ballaleshwar-pali.mdx
+TMP-0021,Banke Bihari Temple,banke-bihari,Vrindavan,Uttar Pradesh,krishna,religious,india,CTY-003,banke-bihari.mdx
+TMP-0022,"Bargabhima Temple, Tamluk",bargabhima-tamluk,"Tamluk, Purba Medinipur district",West Bengal,kali,religious,india,,bargabhima-tamluk.mdx
+TMP-0023,"Gnana Saraswati Temple, Basar",basar-saraswati,"Basar, on the banks of the Godavari river",Telangana,saraswati,religious,india,,basar-saraswati.mdx
+TMP-0024,Bhabanipur Shakti Peetha (Aparna Devi Temple),bhabanipur-aparna,"Bhabanipur, near Sherpur, Bogra district",Bangladesh,devi,religious,international,,bhabanipur-aparna.mdx
+TMP-0025,"Sita Ramachandraswamy Temple, Bhadrachalam",bhadrachalam,"Bhadrachalam, on the banks of the Godavari river",Telangana,rama,religious,india,,bhadrachalam.mdx
+TMP-0026,"Bhadrakali Temple, Kurukshetra",bhadrakali-kurukshetra,Kurukshetra/Thanesar,Haryana,kali,religious,india,,bhadrakali-kurukshetra.mdx
+TMP-0027,"Bhimashankar Temple, Assam (Dakini Hill, Guwahati)",bhimashankar-assam,"Kamrup, near Guwahati",Assam,shiva,religious,india,,bhimashankar-assam.mdx
+TMP-0028,Bhimashankar Temple,bhimashankar,"Bhorgiri, Khed taluka, Pune district",Maharashtra,shiva,religious,india,,bhimashankar.mdx
+TMP-0029,"Bhramaramba Mallikarjuna Temple, Srisailam",bhramaramba-srisailam,"Srisailam, Nallamala Hills, Kurnool district",Andhra Pradesh,parvati,religious,india,,bhramaramba-srisailam.mdx
+TMP-0030,"Bhramari Devi Temple, Jalpaiguri",bhramari-jalpaiguri,"Shalbari village, Falakata, Jalpaiguri district, on the Tista river",West Bengal,devi,religious,india,,bhramari-jalpaiguri.mdx
+TMP-0031,Bijli Mahadev Temple,bijli-mahadev-kullu,"Kashawri village, Kullu Valley",Himachal Pradesh,shiva,religious,india,,bijli-mahadev-kullu.mdx
+TMP-0032,Biraja Temple,biraja,Jajpur,Odisha,durga,religious,india,,biraja.mdx
+TMP-0033,"Brahma Temple, Asotra (Kheteshwar Brahmadham)",brahma-temple-asotra,"Asotra village, near Balotra",Rajasthan,brahma,religious,india,,brahma-temple-asotra.mdx
+TMP-0034,"Brahma Temple, Pushkar",brahma-temple-pushkar,Pushkar,Rajasthan,brahma,religious,india,CTY-010,brahma-temple-pushkar.mdx
+TMP-0035,"Krishna Temples of Braj (Mathura, Vrindavan & Barsana)",braj-krishna-temples,Braj region (Mathura district),Uttar Pradesh,krishna,religious,india,,braj-krishna-temples.mdx
+TMP-0036,"Brajeshwari Devi Temple (Vajreshwari, Kangra)",brajeshwari-devi,Kangra,Himachal Pradesh,durga,religious,india,,brajeshwari-devi.mdx
+TMP-0037,Chamunda Devi Temple,chamunda-devi,"Dharamshala Tehsil, Kangra district",Himachal Pradesh,kali,religious,india,,chamunda-devi.mdx
+TMP-0038,"Chamundeshwari Temple, Mysuru",chamundeshwari-mysuru,"Chamundi Hills, roughly 13 km from Mysuru",Karnataka,durga,religious,india,,chamundeshwari-mysuru.mdx
+TMP-0039,Char Dham of India,char-dham-india,"Pan-India (Uttarakhand, Gujarat, Odisha, Tamil Nadu)",Multi-region,,religious,india,,char-dham-india.mdx
+TMP-0040,Char Dham of Uttarakhand,char-dham-uttarakhand,Garhwal Himalaya,Uttarakhand,,religious,india,,char-dham-uttarakhand.mdx
+TMP-0041,Chattal Bhavani Shakti Peetha,chattal-bhavani-chittagong,"Sitakunda, on the Mandakini river, Chittagong district",Bangladesh,devi,religious,international,,chattal-bhavani-chittagong.mdx
+TMP-0042,"Chauth Mata Temple, Chauth Ka Barwara",chauth-mata-temple-sawai-madhopur,"Chauth Ka Barwara, Sawai Madhopur district",Rajasthan,karva,religious,india,,chauth-mata-temple-sawai-madhopur.mdx
+TMP-0043,"Chintamani Temple, Theur (Ashtavinayak)",chintamani-theur,"Theur, roughly 25 km from Pune",Maharashtra,ganesha,religious,india,,chintamani-theur.mdx
+TMP-0044,Chintpurni Temple,chintpurni,Una district,Himachal Pradesh,devi,religious,india,,chintpurni.mdx
+TMP-0045,"Dakshayani Shakti Peetha (Manasa Shakti Peeth), Manasarovar",dakshayani-manasarovar,"Near Mount Kailash and Lake Manasarovar, Burang county","Tibet Autonomous Region, China",devi,religious,international,,dakshayani-manasarovar.mdx
+TMP-0046,Shri Kshetra Gangapur Dattatreya Temple,dattatreya-gangapur,"Gangapur, on the Bhima river, Afzalpur taluka, Kalaburagi (Gulbarga) district",Karnataka,dattatreya,religious,india,,dattatreya-gangapur.mdx
+TMP-0047,"Devi Talab Mandir, Jalandhar",devi-talab-jalandhar,Jalandhar,Punjab,durga,religious,india,,devi-talab-jalandhar.mdx
+TMP-0048,Nelluvaya Sree Dhanwanthari Temple,dhanvantari-nelluvaya,"Nelluvaya, Thrissur district",Kerala,dhanvantari,religious,india,,dhanvantari-nelluvaya.mdx
+TMP-0049,Doleshwar Mahadev Temple,doleshwar-mahadev,"Suryavinayak, Bhaktapur","Bagmati Province, Nepal",shiva,religious,international,,doleshwar-mahadev.mdx
+TMP-0050,Draksharamam Bhimeswara-Manikyamba Temple,draksharamam-manikyamba,"Draksharamam, East Godavari district",Andhra Pradesh,parvati,religious,india,,draksharamam-manikyamba.mdx
+TMP-0051,Dwarkadhish Temple,dwarka,"Dwarka, Devbhoomi Dwarka district",Gujarat,krishna,religious,india,CTY-007,dwarka.mdx
+TMP-0052,"Dwarkadhish Temple, Mathura",dwarkadhish-mathura,Mathura,Uttar Pradesh,krishna,religious,india,CTY-004,dwarkadhish-mathura.mdx
+TMP-0053,Gangotri Temple,gangotri,Uttarkashi district,Uttarakhand,ganga,religious,india,,gangotri.mdx
+TMP-0054,"Gayatri Mata Temple, Pushkar",gayatri-mata-pushkar,"Nilgiri Hill, Pushkar",Rajasthan,gayatri,religious,india,CTY-010,gayatri-mata-pushkar.mdx
+TMP-0055,"Girijatmaj Temple, Lenyadri (Ashtavinayak)",girijatmaj-lenyadri,"Lenyadri caves, roughly 4.8 km north of Junnar",Maharashtra,ganesha,religious,india,,girijatmaj-lenyadri.mdx
+TMP-0056,Grishneshwar Temple,grishneshwar,"Verul, near Ellora Caves",Maharashtra,shiva,religious,india,,grishneshwar.mdx
+TMP-0057,Guhyeshwari Temple,guhyeshwari-kathmandu,"Kathmandu, near the Pashupatinath Temple",Nepal,kali,religious,international,,guhyeshwari-kathmandu.mdx
+TMP-0058,Guruvayur Sri Krishna Temple,guruvayur-temple,"Guruvayur, Thrissur district",Kerala,krishna,religious,india,,guruvayur-temple.mdx
+TMP-0059,Hanuman Garhi,hanuman-garhi,"Ramkot, Ayodhya",Uttar Pradesh,hanuman,religious,india,CTY-002,hanuman-garhi.mdx
+TMP-0060,Hinglaj Mata Temple,hinglaj-mata,"Lasbela district, Makran coast","Balochistan, Pakistan",devi,religious,international,,hinglaj-mata.mdx
+TMP-0061,ISKCON Vrindavan (Sri Sri Krishna Balaram Mandir),iskcon-vrindavan,"Raman Reti, Vrindavan",Uttar Pradesh,krishna,religious,india,CTY-003,iskcon-vrindavan.mdx
+TMP-0062,"Jagannath Temple, Puri",jagannath-puri,Puri,Odisha,jagannath,religious,india,CTY-008,jagannath-puri.mdx
+TMP-0063,Jageshwar Temple Cluster,jageshwar,"Jageshwar, near Almora",Uttarakhand,shiva,religious,india,,jageshwar.mdx
+TMP-0064,Nartiang Durga Temple (Jayanti Shakti Peetha),jayanti-durga-nartiang,"Nartiang, West Jaintia Hills district",Meghalaya,durga,religious,india,,jayanti-durga-nartiang.mdx
+TMP-0065,Jeshoreshwari Kali Temple,jeshoreshwari-bangladesh,"Ishwaripur village, Shyamnagar upazila, Satkhira district",Bangladesh,kali,religious,international,,jeshoreshwari-bangladesh.mdx
+TMP-0066,"Puj Chaliha Sahib Jhulelal Mandir, Ulhasnagar",jhulelal-mandir-ulhasnagar,Ulhasnagar 5 (Sindhunagar),Maharashtra,jhulelal,religious,india,,jhulelal-mandir-ulhasnagar.mdx
+TMP-0067,Jimutavahana and the Jitiya (Jivitputrika) Observance,jimutavahana-jitiya-observance,"Bihar, Jharkhand, eastern Uttar Pradesh, and Nepal",Bihar,jimutavahana,religious,india,,jimutavahana-jitiya-observance.mdx
+TMP-0068,"Jogulamba Temple, Alampur",jogulamba-alampur,"Alampur, on the Tungabhadra river near its confluence with the Krishna",Telangana,devi,religious,india,,jogulamba-alampur.mdx
+TMP-0069,Jwala Ji Temple,jwala-ji,"Jawalamukhi, Kangra district",Himachal Pradesh,devi,religious,india,,jwala-ji.mdx
+TMP-0070,"Kaal Bhairav Temple, Varanasi",kaal-bhairav-varanasi,Varanasi (Kashi),Uttar Pradesh,bhairava,religious,india,CTY-001,kaal-bhairav-varanasi.mdx
+TMP-0071,"Kalaram Temple, Nashik",kalaram-nashik,"Panchavati, Nashik",Maharashtra,rama,religious,india,CTY-012,kalaram-nashik.mdx
+TMP-0072,Kalighat Kali Temple,kalighat,"Kalighat, Kolkata",West Bengal,kali,religious,india,,kalighat.mdx
+TMP-0073,Kalpeshwar,kalpeshwar,Uttarakhand,Uttarakhand,shiva,religious,india,,kalpeshwar.mdx
+TMP-0074,"Kamadgiri and Ram Ghat, Chitrakoot",kamadgiri-chitrakoot,"Chitrakoot, on the Madhya Pradesh-Uttar Pradesh border",Madhya Pradesh/Uttar Pradesh border,rama,religious,india,,kamadgiri-chitrakoot.mdx
+TMP-0075,Kamakhya Temple,kamakhya,"Nilachal Hill, Guwahati",Assam,devi,religious,india,,kamakhya.mdx
+TMP-0076,Kamakshi Amman Temple,kamakshi-amman,Kanchipuram,Tamil Nadu,parvati,religious,india,,kamakshi-amman.mdx
+TMP-0077,Kanak Bhawan,kanak-bhawan,"Ramkot, Ayodhya",Uttar Pradesh,rama,religious,india,CTY-002,kanak-bhawan.mdx
+TMP-0078,"Agniswarar Temple, Kanjanur (Navagraha: Sukra Sthalam)",kanjanur-sukran-temple,"Kanjanur, near Kumbakonam",Tamil Nadu,shukra,religious,india,,kanjanur-sukran-temple.mdx
+TMP-0079,Kankalitala Temple,kankalitala,"Bolepur, Birbhum district, on the Kopai river",West Bengal,devi,religious,india,,kankalitala.mdx
+TMP-0080,Kanyakumari Bhagavathi Amman Temple,kanyakumari-devi-temple,"Kanyakumari, at the southern tip of the Indian mainland",Tamil Nadu,devi,religious,india,,kanyakumari-devi-temple.mdx
+TMP-0081,"Kartik Swami Temple, Rudraprayag",kartik-swami-rudraprayag,"Above Kanakchauri village, Rudraprayag district",Uttarakhand,kartikeya,religious,india,,kartik-swami-rudraprayag.mdx
+TMP-0082,Kartikeya's Temples: The Six Abodes and the Himalayan Shrine,kartikeya-temples-india,"Pan-India (predominantly Tamil Nadu, with one Uttarakhand shrine)",Multiple,kartikeya,religious,india,,kartikeya-temples-india.mdx
+TMP-0083,Kashi Vishwanath,kashi-vishwanath,Uttar Pradesh,Uttar Pradesh,shiva,religious,india,CTY-001,kashi-vishwanath.mdx
+TMP-0084,"Katyayani Peeth, Vrindavan",katyayani-vrindavan,"Vrindavan, Mathura district",Uttar Pradesh,durga,religious,india,CTY-003,katyayani-vrindavan.mdx
+TMP-0085,Kedarnath,kedarnath,Uttarakhand,Uttarakhand,shiva,religious,india,,kedarnath.mdx
+TMP-0086,"Naganathaswamy Temple, Keezhaperumpallam (Navagraha: Ketu Sthalam)",keezhaperumpallam-ketu-temple,"Keezhaperumpallam (Vanagiri), near Thiruvenkadu, Mayiladuthurai district",Tamil Nadu,ketu,religious,india,,keezhaperumpallam-ketu-temple.mdx
+TMP-0087,Khatu Shyam Ji Temple,khatu-shyam-ji-temple,"Khatu town, Sikar district",Rajasthan,khatu-shyam,religious,india,,khatu-shyam-ji-temple.mdx
+TMP-0088,Kinnaur Kailash,kinnaur-kailash,Kinnaur district,Himachal Pradesh,shiva,religious,india,,kinnaur-kailash.mdx
+TMP-0089,Kiriteswari Temple,kiriteswari,"Kiritkona village, Nabagram, Murshidabad district",West Bengal,devi,religious,india,,kiriteswari.mdx
+TMP-0090,Konark Sun Temple,konark-sun-temple,"Konark, on the Bay of Bengal coast",Odisha,surya,religious,india,,konark-sun-temple.mdx
+TMP-0091,Krishna Janmabhoomi Temple,krishna-janmabhoomi,Mathura,Uttar Pradesh,krishna,religious,india,CTY-004,krishna-janmabhoomi.mdx
+TMP-0092,Krishna's Major Temples Beyond Braj,krishna-temples-india,Pan-India,Multiple,krishna,religious,india,,krishna-temples-india.mdx
+TMP-0093,"Puruhutika Devi Temple (Kukkuteswara Swamy Temple), Pithapuram",kukkuteswara-pithapuram,"Pithapuram, Kakinada district",Andhra Pradesh,devi,religious,india,,kukkuteswara-pithapuram.mdx
+TMP-0094,Major Lakshmi Temples of India,lakshmi-temples-india,Pan-India,Multiple,lakshmi,religious,india,,lakshmi-temples-india.mdx
+TMP-0095,"Lalita Devi Temple, Prayagraj",lalita-devi-prayagraj,"Meerapur, near the Triveni Sangam",Uttar Pradesh,lalita,religious,india,CTY-011,lalita-devi-prayagraj.mdx
+TMP-0096,Madhyamaheshwar,madhyamaheshwar,Uttarakhand,Uttarakhand,shiva,religious,india,,madhyamaheshwar.mdx
+TMP-0097,"Mahaganapati Temple, Ranjangaon (Ashtavinayak)",mahaganapati-ranjangaon,"Ranjangaon, Shirur taluka, Pune district",Maharashtra,ganesha,religious,india,,mahaganapati-ranjangaon.mdx
+TMP-0098,Mahakaleshwar Temple,mahakaleshwar,Ujjain,Madhya Pradesh,shiva,religious,india,CTY-006,mahakaleshwar.mdx
+TMP-0099,"Mahalakshmi Temple, Kolhapur",mahalakshmi-kolhapur,Kolhapur,Maharashtra,lakshmi,religious,india,,mahalakshmi-kolhapur.mdx
+TMP-0100,"Mahalakshmi Temple, Mumbai",mahalakshmi-mumbai,"Mahalakshmi, Mumbai",Maharashtra,lakshmi,religious,india,,mahalakshmi-mumbai.mdx
+TMP-0101,"Mahalakshmi Shakti Peetha, Sylhet",mahalakshmi-sylhet,"Jainpur village, Dakshin Surma, near Sylhet",Bangladesh,lakshmi,religious,international,,mahalakshmi-sylhet.mdx
+TMP-0102,"Mallikarjuna Temple, Srisailam",mallikarjuna,"Srisailam, Nandyal district",Andhra Pradesh,shiva,religious,india,,mallikarjuna.mdx
+TMP-0103,"Mangal Chandika Temple, Ujani",mangal-chandika-ujani,"Ujani village, Guskara, Purba Bardhaman district",West Bengal,devi,religious,india,,mangal-chandika-ujani.mdx
+TMP-0104,"Mangla Gauri Temple, Gaya",mangla-gauri-gaya,"Gaya, on the Phalgu river",Bihar,parvati,religious,india,CTY-013,mangla-gauri-gaya.mdx
+TMP-0105,"Manibandh Shakti Peeth, Pushkar",manibandh-pushkar,"Gayatri Hills, near Pushkar",Rajasthan,saraswati,religious,india,CTY-010,manibandh-pushkar.mdx
+TMP-0106,Manimahesh Kailash,manimahesh-kailash,"Bharmour, Chamba district",Himachal Pradesh,shiva,religious,india,,manimahesh-kailash.mdx
+TMP-0107,"Mayureshwar Temple, Morgaon (Ashtavinayak #1)",mayureshwar-morgaon,"Morgaon, Pune district",Maharashtra,ganesha,religious,india,,mayureshwar-morgaon.mdx
+TMP-0108,"Mithila Shakti Peetha (Uma Devi Temple), Janakpur",mithila-janakpur,"Janakpur, near the Bihar border",Nepal,parvati,religious,international,,mithila-janakpur.mdx
+TMP-0109,Mount Kailash,mount-kailash,"Ngari Prefecture, Tibet Autonomous Region","Tibet Autonomous Region, China",shiva,religious,international,,mount-kailash.mdx
+TMP-0110,Muktinath Temple,muktinath,"Muktinath Valley, Mustang","Gandaki Province, Nepal",vishnu,religious,international,,muktinath.mdx
+TMP-0111,"Nagapooshani Amman Temple, Nainativu",nagapooshani-nainativu,"Nainativu island, near Jaffna","Northern Province, Sri Lanka",parvati,religious,international,,nagapooshani-nainativu.mdx
+TMP-0112,Nageshwar Jyotirlinga Temple,nageshwar,"Near Dwarka, Devbhoomi Dwarka district",Gujarat,shiva,religious,india,CTY-007,nageshwar.mdx
+TMP-0113,"Nageshwarnath Temple, Ayodhya",nageshwarnath-ayodhya,"Ram Ki Paidi, Ayodhya",Uttar Pradesh,shiva,religious,india,CTY-002,nageshwarnath-ayodhya.mdx
+TMP-0114,Naina Devi Temple,naina-devi,Bilaspur district,Himachal Pradesh,devi,religious,india,,naina-devi.mdx
+TMP-0115,Nandikeshwari Temple,nandikeshwari,"Sainthia, Birbhum district",West Bengal,devi,religious,india,,nandikeshwari.mdx
+TMP-0116,Nangli Sahib (Nangli Tirath),nangli-sahib,"Nangli village, near Sakoti Tanda, Meerut district",Uttar Pradesh,shiva,religious,india,,nangli-sahib.mdx
+TMP-0117,"Narayani Temple, Suchindram",narayani-suchindram,"Suchindram, Kanyakumari district",Tamil Nadu,lakshmi,religious,india,,narayani-suchindram.mdx
+TMP-0118,"Narmada Udgam Temple, Amarkantak",narmada-udgam-amarkantak,"Amarkantak, source of the Narmada river, Madhya Pradesh-Chhattisgarh border",Madhya Pradesh,narmada,religious,india,,narmada-udgam-amarkantak.mdx
+TMP-0119,"Narmada Udgam & Kalmadhav Shakti Peethas, Amarkantak",narmada-udgam-kalmadhav,"Amarkantak, Anuppur district",Madhya Pradesh,devi,religious,india,,narmada-udgam-kalmadhav.mdx
+TMP-0120,Navagraha Sthalams of Tamil Nadu,navagraha-sthalams-tamil-nadu,"Kumbakonam-Mayiladuthurai region, Cauvery Delta",Tamil Nadu / Puducherry,navagraha,religious,india,,navagraha-sthalams-tamil-nadu.mdx
+TMP-0121,Neelkanth Mahadev Temple,neelkanth-mahadev-rishikesh,"Pauri Garhwal district, near Rishikesh",Uttarakhand,shiva,religious,india,CTY-009,neelkanth-mahadev-rishikesh.mdx
+TMP-0122,Nidhivan,nidhivan,Vrindavan,Uttar Pradesh,krishna,religious,india,CTY-003,nidhivan.mdx
+TMP-0123,Om Parvat,om-parvat,"Vyas Valley, Pithoragarh district",Uttarakhand,shiva,religious,india,,om-parvat.mdx
+TMP-0124,"Omkareshwar Temple, Ukhimath",omkareshwar-temple-ukhimath,"Ukhimath, Rudraprayag district",Uttarakhand,shiva,religious,india,,omkareshwar-temple-ukhimath.mdx
+TMP-0125,Omkareshwar Temple,omkareshwar,"Mandhata Island, Khandwa district",Madhya Pradesh,shiva,religious,india,,omkareshwar.mdx
+TMP-0126,Sree Padmanabhaswamy Temple,padmanabhaswamy-temple,Thiruvananthapuram (Trivandrum),Kerala,vishnu,religious,india,,padmanabhaswamy-temple.mdx
+TMP-0127,"Sri Padmavathi Ammavari Temple, Tiruchanur",padmavathi-tiruchanur,"Tiruchanur (Alamelu Mangapuram), Tirupati",Andhra Pradesh,lakshmi,religious,india,,padmavathi-tiruchanur.mdx
+TMP-0128,Palani Murugan Temple (Third Arupadaiveedu),palani-murugan,Palani Hills,Tamil Nadu,kartikeya,religious,india,,palani-murugan.mdx
+TMP-0129,"Saraswathi Temple, Panachikkad",panachikkad-saraswati,"Panachikkad, Kottayam district",Kerala,saraswati,religious,india,,panachikkad-saraswati.mdx
+TMP-0130,Panch Kailash,panch-kailash,"Trans-Himalaya (Tibet, Uttarakhand, Himachal Pradesh)",Multi-region,shiva,religious,international,,panch-kailash.mdx
+TMP-0131,Panch Kedar,panch-kedar,Uttarakhand,Uttarakhand,shiva,religious,india,,panch-kedar.mdx
+TMP-0132,"Panchsagar Shakti Peeth (Varahi Devi Temple), Champawat",panchsagar-champawat,"Lohaghat, Champawat district",Uttarakhand,devi,religious,india,,panchsagar-champawat.mdx
+TMP-0133,Parli Vaijnath Temple,parli-vaijnath,"Parli, Beed district",Maharashtra,shiva,religious,india,,parli-vaijnath.mdx
+TMP-0134,Pashupatinath Temple,pashupatinath,"Kathmandu (Deopatan), Bagmati River","Bagmati Province, Nepal",shiva,religious,international,,pashupatinath.mdx
+TMP-0135,Patal Bhuvaneshwar Cave Temple,patal-bhuvaneshwar,"Gangolihat, Pithoragarh district",Uttarakhand,shiva,religious,india,,patal-bhuvaneshwar.mdx
+TMP-0136,"Patan Devi Temple, Patna",patan-devi-patna,Patna,Bihar,durga,religious,india,,patan-devi-patna.mdx
+TMP-0137,Pazhamudircholai Murugan Temple (Sixth Arupadaiveedu),pazhamudircholai-murugan,"Solaimalai hill, outskirts of Madurai",Tamil Nadu,kartikeya,religious,india,,pazhamudircholai-murugan.mdx
+TMP-0138,Prem Mandir,prem-mandir,Vrindavan (outskirts),Uttar Pradesh,krishna,religious,india,CTY-003,prem-mandir.mdx
+TMP-0139,Radha Raman Temple,radha-raman,Vrindavan,Uttar Pradesh,krishna,religious,india,CTY-003,radha-raman.mdx
+TMP-0140,"Radha Rani Temple (Ladli Ji), Barsana",radha-rani-barsana,Barsana,Uttar Pradesh,radha,religious,india,,radha-rani-barsana.mdx
+TMP-0141,"Ram Mandir, Ayodhya",ram-mandir-ayodhya,"Ram Janmabhoomi, Ayodhya",Uttar Pradesh,rama,religious,india,CTY-002,ram-mandir-ayodhya.mdx
+TMP-0142,"Ram Raja Temple, Orchha",ram-raja-orchha,Orchha,Madhya Pradesh,rama,religious,india,,ram-raja-orchha.mdx
+TMP-0143,Major Rama Temples Outside Ayodhya,ram-temples-india,Pan-India,Multiple,rama,religious,india,,ram-temples-india.mdx
+TMP-0144,Ramanathaswamy Temple,ramanathaswamy,Rameswaram Island,Tamil Nadu,shiva,religious,india,,ramanathaswamy.mdx
+TMP-0145,Ramgiri Shakti Peetha,ramgiri-chitrakoot,"Near Kamadgiri Hill, Chitrakoot, on the Madhya Pradesh-Uttar Pradesh border (disputed; an alternate claim places it at Maihar, Satna district)",Uttar Pradesh/Madhya Pradesh border (disputed),devi,religious,india,,ramgiri-chitrakoot.mdx
+TMP-0146,"Sri Ranganathaswamy Temple, Srirangam",ranganathaswamy-srirangam,"Srirangam, Tiruchirappalli",Tamil Nadu,vishnu,religious,india,,ranganathaswamy-srirangam.mdx
+TMP-0147,"Ratnavali Shakti Peetha, Hooghly",ratnavali-hooghly,"Khanakul, Hooghly district, on the Ratnakar river",West Bengal,devi,religious,india,,ratnavali-hooghly.mdx
+TMP-0148,"Renuka Devi Temple, Mahur",renuka-mahur,"Mahur (Mahurgad), Nanded district",Maharashtra,devi,religious,india,,renuka-mahur.mdx
+TMP-0149,Rudranath,rudranath,Uttarakhand,Uttarakhand,shiva,religious,india,,rudranath.mdx
+TMP-0150,Sabarimala Sree Dharma Sastha Temple,sabarimala-ayyappa,"Sabarimala hills, Pathanamthitta district",Kerala,ayyappa,religious,india,,sabarimala-ayyappa.mdx
+TMP-0151,"Santoshi Mata Mandir, Jodhpur",santoshi-mata-jodhpur,"Lall Sagar, Jodhpur",Rajasthan,santoshi,religious,india,,santoshi-mata-jodhpur.mdx
+TMP-0152,"Sapt Rishi Ashram, Haridwar",sapt-rishi-ashram-haridwar,Haridwar,Uttarakhand,saptarishi,religious,india,CTY-005,sapt-rishi-ashram-haridwar.mdx
+TMP-0153,"Saptashrungi Temple, Nashik",saptashrungi-nashik,"Nanduri, Kalwan taluka, roughly 60 km from Nashik",Maharashtra,durga,religious,india,CTY-012,saptashrungi-nashik.mdx
+TMP-0154,Major Saraswati Temples of India,saraswati-temples-india,Pan-India,Multiple,saraswati,religious,india,,saraswati-temples-india.mdx
+TMP-0155,"Savitri Mata Temple, Pushkar",savitri-mata-pushkar,"Ratnagiri Hill, Pushkar",Rajasthan,savitri,religious,india,CTY-010,savitri-mata-pushkar.mdx
+TMP-0156,Popular Shakti Peeths of India,shakti-peeths-india,Pan-India and neighbouring countries,Multi-region,,religious,india,,shakti-peeths-india.mdx
+TMP-0157,Shaktipeeths of Himachal Pradesh,shaktipeeths-himachal,"Kangra, Una, and Bilaspur districts",Himachal Pradesh,,religious,india,,shaktipeeths-himachal.mdx
+TMP-0158,"Shankari Devi Shakti Peetha, Trincomalee",shankari-trincomalee,"Swami Rock, within the Koneswaram Temple complex, Trincomalee","Eastern Province, Sri Lanka",devi,religious,international,,shankari-trincomalee.mdx
+TMP-0159,Sharada Peeth,sharada-peeth,Neelum Valley,Pakistan-administered Kashmir (Azad Jammu and Kashmir),saraswati,religious,international,,sharada-peeth.mdx
+TMP-0160,"Sheetla Mata Mandir, Gurugram",sheetla-mata-gurugram,Gurugram (Gurgaon),Haryana,sheetala,religious,india,,sheetla-mata-gurugram.mdx
+TMP-0161,"Shri Sai Baba Temple, Shirdi",shirdi-sai-baba-temple,"Shirdi, Ahmednagar district",Maharashtra,sai-baba,religious,india,,shirdi-sai-baba-temple.mdx
+TMP-0162,"Shiv Bari Temple (Drona Shiv Mandir), Gagret",shiv-bari-temple-gagret,"Ambota village, Gagret, Una district",Himachal Pradesh,shiva,religious,india,,shiv-bari-temple-gagret.mdx
+TMP-0163,Shrikhand Mahadev,shrikhand-mahadev,"Nirmand, Kullu district",Himachal Pradesh,shiva,religious,india,,shrikhand-mahadev.mdx
+TMP-0164,"Shrinathji Temple, Nathdwara",shrinathji-nathdwara,Nathdwara,Rajasthan,krishna,religious,india,,shrinathji-nathdwara.mdx
+TMP-0165,"Shrinkhala Devi Shakti Peetha, Pandua",shrinkhala-pandua,"Pandua (Praddyumnam), Hooghly district",West Bengal,devi,religious,india,,shrinkhala-pandua.mdx
+TMP-0166,"Siddhivinayak Temple, Mumbai",siddhivinayak-mumbai,"Prabhadevi, Mumbai",Maharashtra,ganesha,religious,india,,siddhivinayak-mumbai.mdx
+TMP-0167,"Siddhivinayak Temple, Siddhatek (Ashtavinayak)",siddhivinayak-siddhatek,"Siddhatek, on the Bhima river, Ahmednagar district",Maharashtra,ganesha,religious,india,,siddhivinayak-siddhatek.mdx
+TMP-0168,"Janaki Mandir, Sitamarhi",sitamarhi-janaki,Sitamarhi (Punaura Dham),Bihar,radha,religious,india,,sitamarhi-janaki.mdx
+TMP-0169,Somnath Temple,somnath,"Prabhas Patan, Gir Somnath district",Gujarat,shiva,religious,india,,somnath.mdx
+TMP-0170,Sri Parvat Shakti Peetha,sri-parvat-ladakh,Location disputed — most commonly cited as Ladakh; also claimed at Sylhet and Srisailam,Ladakh (disputed),devi,religious,india,,sri-parvat-ladakh.mdx
+TMP-0171,Sugandha Shakti Peetha,sugandha-barisal,"Shikarpur village, on the Sugandha river, near Barisal",Bangladesh,devi,religious,international,,sugandha-barisal.mdx
+TMP-0172,Suryanar Kovil (Navagraha: Surya Sthalam),suryanar-kovil,"Suryanar Koil village, near Aduthurai, Thanjavur district",Tamil Nadu,surya,religious,india,,suryanar-kovil.mdx
+TMP-0173,Swamimalai Murugan Temple (Fourth Arupadaiveedu),swamimalai-murugan,"Swamimalai, near Kumbakonam",Tamil Nadu,kartikeya,religious,india,,swamimalai-murugan.mdx
+TMP-0174,"Tadkeshwar Mahadev Temple, Lansdowne",tadkeshwar-mahadev-lansdowne,"Near Lansdowne, Pauri Garhwal district",Uttarakhand,shiva,religious,india,,tadkeshwar-mahadev-lansdowne.mdx
+TMP-0175,Tara Tarini Temple,tara-tarini,"Purushottampur, Ganjam district",Odisha,devi,religious,india,,tara-tarini.mdx
+TMP-0176,Tarapith Temple,tarapith,"Tarapith, near the Dwaraka river, Rampurhat subdivision, Birbhum district",West Bengal,kali,religious,india,,tarapith.mdx
+TMP-0177,Thingalur Chandra Temple (Navagraha: Chandra Sthalam),thingalur-chandra-temple,"Thingalur, near Thanjavur",Tamil Nadu,chandra,religious,india,,thingalur-chandra-temple.mdx
+TMP-0178,"Sri Naganathaswamy Temple, Thirunageswaram (Navagraha: Rahu Sthalam)",thirunageswaram-rahu-temple,"Thirunageswaram, near Kumbakonam",Tamil Nadu,rahu,religious,india,,thirunageswaram-rahu-temple.mdx
+TMP-0179,Thirunallar Saneeswaran Temple (Navagraha: Shani Sthalam),thirunallar-shani-temple,"Thirunallar, Karaikal district",Puducherry (Union Territory),shani,religious,india,,thirunallar-shani-temple.mdx
+TMP-0180,Thiruparankundram Murugan Temple (First Arupadaiveedu),thiruparankundram-murugan,"Thiruparankundram, near Madurai",Tamil Nadu,kartikeya,religious,india,,thiruparankundram-murugan.mdx
+TMP-0181,Thiruthani Murugan Temple (Fifth Arupadaiveedu),thiruthani-murugan,"Tiruttani, Tiruvallur district",Tamil Nadu,kartikeya,religious,india,,thiruthani-murugan.mdx
+TMP-0182,Thiruvenkadu Budhan Temple (Navagraha: Budha Sthalam),thiruvenkadu-budhan-temple,"Thiruvenkadu, Mayiladuthurai district",Tamil Nadu,budh,religious,india,,thiruvenkadu-budhan-temple.mdx
+TMP-0183,Tiruchendur Murugan Temple (Second Arupadaiveedu),tiruchendur-murugan,"Tiruchendur, Thoothukudi district, on the Bay of Bengal",Tamil Nadu,kartikeya,religious,india,,tiruchendur-murugan.mdx
+TMP-0184,"Venkateswara Temple, Tirumala (Tirupati Balaji)",tirumala-venkateswara,"Tirumala hills, Tirupati",Andhra Pradesh,venkateswara,religious,india,,tirumala-venkateswara.mdx
+TMP-0185,Treta Ke Thakur,treta-ke-thakur,"Naya Ghat, Ayodhya",Uttar Pradesh,rama,religious,india,CTY-002,treta-ke-thakur.mdx
+TMP-0186,Trimbakeshwar Shiva Temple,trimbakeshwar,"Trimbak, Nashik district",Maharashtra,shiva,religious,india,CTY-012,trimbakeshwar.mdx
+TMP-0187,"Tripura Sundari Temple, Udaipur",tripura-sundari-udaipur,"Udaipur (Rajbari), Gomati district",Tripura,devi,religious,india,,tripura-sundari-udaipur.mdx
+TMP-0188,Triyuginarayan Temple,triyuginarayan-temple,"Triyuginarayan village, Rudraprayag district",Uttarakhand,vishnu,religious,india,,triyuginarayan-temple.mdx
+TMP-0189,"Tulsi Manas Mandir, Varanasi",tulsi-manas-mandir-varanasi,"Durga Kund, Varanasi",Uttar Pradesh,tulsi,religious,india,CTY-001,tulsi-manas-mandir-varanasi.mdx
+TMP-0190,Tungnath,tungnath,Uttarakhand,Uttarakhand,shiva,religious,india,,tungnath.mdx
+TMP-0191,Udupi Sri Krishna Matha,udupi-krishna-matha,Udupi,Karnataka,krishna,religious,india,,udupi-krishna-matha.mdx
+TMP-0192,"Baidyanath Temple, Deoghar",vaidyanath,Deoghar,Jharkhand,shiva,religious,india,,vaidyanath.mdx
+TMP-0193,Vaishno Devi Temple,vaishno-devi,"Trikuta Hills, Katra, Reasi district",Jammu and Kashmir,vaishno-devi,religious,india,,vaishno-devi.mdx
+TMP-0194,Vaitheeswaran Koil (Navagraha: Angaraka Sthalam),vaitheeswaran-koil,"Vaitheeswaran Koil village, near Sirkazhi",Tamil Nadu,mangal,religious,india,,vaitheeswaran-koil.mdx
+TMP-0195,"Varadvinayak Temple, Mahad (Ashtavinayak)",varadvinayak-mahad,"Mahad, Khalapur taluka, Raigad district",Maharashtra,ganesha,religious,india,,varadvinayak-mahad.mdx
+TMP-0196,"Vighnahar Temple, Ozar (Ashtavinayak)",vighnahar-ozar,"Ozar, near Junnar",Maharashtra,ganesha,religious,india,,vighnahar-ozar.mdx
+TMP-0197,"Vimala Temple, Puri",vimala-puri,"Puri, within the Jagannath Temple complex",Odisha,devi,religious,india,CTY-008,vimala-puri.mdx
+TMP-0198,"Vindhyavasini Devi Temple, Vindhyachal",vindhyavasini-devi,"Vindhyachal, on the banks of the Ganga, Mirzapur district",Uttar Pradesh,vindhyavasini,religious,india,,vindhyavasini-devi.mdx
+TMP-0199,Vishalakshi Temple,vishalakshi,Varanasi,Uttar Pradesh,parvati,religious,india,CTY-001,vishalakshi.mdx
+TMP-0200,Vishnu's Great Temples of India,vishnu-temples-india,Pan-India,Multiple,vishnu,religious,india,,vishnu-temples-india.mdx
+TMP-0201,Vishnupad Temple,vishnupad-temple-gaya,"Gaya, on the banks of the Phalgu river",Bihar,vishnu,religious,india,CTY-013,vishnupad-temple-gaya.mdx
+TMP-0202,"Vishwakarma Temple, Guwahati",vishwakarma-temple-guwahati,"Kamakhya Gate area, foothills of Nilachal Hill, Guwahati",Assam,vishwakarma,religious,india,,vishwakarma-temple-guwahati.mdx
+TMP-0203,"Vishwanath Temple, Guptkashi",vishwanath-temple-guptkashi,"Guptkashi, Rudraprayag district",Uttarakhand,shiva,religious,india,,vishwanath-temple-guptkashi.mdx
+TMP-0204,"Vishwanath Temple, Uttarkashi",vishwanath-temple-uttarkashi,Uttarkashi,Uttarakhand,shiva,religious,india,,vishwanath-temple-uttarkashi.mdx
+TMP-0205,"Vithoba Temple, Pandharpur",vithoba-pandharpur,"Pandharpur, on the banks of the Chandrabhaga river",Maharashtra,vitthala,religious,india,,vithoba-pandharpur.mdx
+TMP-0206,"Vyas Gufa (Vyas Cave), Mana Village",vyas-gufa-mana-badrinath,"Mana village, near Badrinath, Chamoli district",Uttarakhand,guru,religious,india,,vyas-gufa-mana-badrinath.mdx
+TMP-0207,Yamunotri Temple,yamunotri,Uttarkashi district,Uttarakhand,yamuna,religious,india,,yamunotri.mdx

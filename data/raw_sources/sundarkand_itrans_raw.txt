@@ -1,0 +1,714 @@
+% Text title            : Shri Ram Charit Manas - Sundarakand
+% File name             : manas5_i.itx
+% Category              : raama, tulasIdAsa, hindi
+% Location              : doc_z_otherlang_hindi
+% Author                : Goswami Tulasidas
+% Transliterated by     : Mr. Balram J. Rathore, Ratlam, M.P., a retired railway driver
+% Description-comments  : Awadhi, Converted from ISCII to ITRANS
+% Acknowledge-Permission: Dr. Vineet Chaitanya
+% Latest update         : Februari 13, 2024
+% Source URL            : https://sanskritdocuments.org/doc_z_otherlang_hindi/manas5_i.itx
+% Fetched for YatraBeyond: 2026-07-16
+%
+% This text is prepared by volunteers and is to be used for personal study
+% and research. The file is not to be copied or reposted for promotion of
+% any website or individuals or for commercial purpose without permission.
+% Please help to maintain respect for volunteer spirit.
+%
+shrIjAnakIvallabho vijayate
+shrIrAmacharitamAnasa
+~~~~~~~~
+pa~nchama sopAna
+sundarakANDa
+shloka
+shAnta.n shAshvatamaprameyamanagha.n nirvANashAntiprada.n
+brahmAshambhuphaNIndrasevyamanisha.n vedAntavedya.n vibhum .
+rAmAkhya.n jagadIshvara.n suraguru.n mAyAmanuShya.n hari.n
+vande.aha.n karuNAkara.n raghuvara.n bhUpAlachU.DAmaNim .. 1 ..
+nAnyA spR^ihA raghupate hR^idaye.asmadIye
+satya.n vadAmi cha bhavAnakhilAntarAtmA.
+bhakti.n prayachchha raghupu~Ngava nirbharA.n me
+kAmAdidoSharahita.n kuru mAnasa.n cha .. 2 ..
+atulitabaladhAma.n   hemashailAbhadeha.n
+danujavanakR^ishAnu.n   GYAninAmagragaNyam.
+sakalaguNanidhAna.n    vAnarANAmadhIsha.n
+raghupatipriyabhakta.n  vAtajAta.n namAmi .. 3 ..
+jAmava.nta ke bachana suhA_e. suni hanuma.nta hR^idaya ati bhA_e ..
+taba lagi mohi parikhehu tumha bhA_I. sahi dukha ka.nda mUla phala khA_I ..
+jaba lagi Avau.n sItahi dekhI. ho_ihi kAju mohi haraSha biseShI ..
+yaha kahi nA_i sabanhi kahu.N mAthA. chale_u haraShi hiya.N dhari raghunAthA ..
+si.ndhu tIra eka bhUdhara su.ndara. kautuka kUdi cha.Dhe_u tA Upara ..
+bAra bAra raghubIra sa.NbhArI. tarake_u pavanatanaya bala bhArI ..
+jehi.n giri charana de_i hanuma.ntA. chale_u so gA pAtAla tura.ntA ..
+jimi amogha raghupati kara bAnA. ehI bhA.Nti chale_u hanumAnA ..
+jalanidhi raghupati dUta bichArI. tai.n mainAka hohi shramahArI ..
+do. hanUmAna tehi parasA kara puni kInha pranAma.
+rAma kAju kInhe.n binu mohi kahA.N bishrAma .. 1 ..
+jAta pavanasuta devanha dekhA. jAnai.n kahu.N bala buddhi biseShA ..
+surasA nAma ahinha kai mAtA. paTha_inhi A_i kahI tehi.n bAtA ..
+Aju suranha mohi dInha ahArA. sunata bachana kaha pavanakumArA ..
+rAma kAju kari phiri mai.n Avau.n. sItA ka_i sudhi prabhuhi sunAvau.n ..
+taba tava badana paiThiha_u.N A_I. satya kaha_u.N mohi jAna de mA_I ..
+kabanehu.N jatana de_i nahi.n jAnA. grasasi na mohi kahe_u hanumAnA ..
+jojana bhari tehi.n badanu pasArA. kapi tanu kInha duguna bistArA ..
+soraha jojana mukha tehi.n Thaya_U. turata pavanasuta battisa bhaya_U ..
+jasa jasa surasA badanu ba.DhAvA. tAsu dUna kapi rUpa dekhAvA ..
+sata jojana tehi.n Anana kInhA. ati laghu rUpa pavanasuta lInhA ..
+badana pa_iThi puni bAhera AvA. mAgA bidA tAhi siru nAvA ..
+mohi suranha jehi lAgi paThAvA. budhi bala maramu tora mai pAvA ..
+do. rAma kAju sabu karihahu tumha bala buddhi nidhAna.
+AsiSha deha ga_I so haraShi chale_u hanumAna .. 2 ..
+nisichari eka si.ndhu mahu.N raha_I. kari mAyA nabhu ke khaga gaha_I ..
+jIva ja.ntu je gagana u.DAhI.n. jala biloki tinha kai parichhAhI.n ..
+gaha_i chhAha.N saka so na u.DA_I. ehi bidhi sadA gaganachara khA_I ..
+so_i chhala hanUmAna kaha.N kInhA. tAsu kapaTu kapi turatahi.n chInhA ..
+tAhi mAri mArutasuta bIrA. bAridhi pAra gaya_u matidhIrA ..
+tahA.N jA_i dekhI bana sobhA. gu.njata cha.ncharIka madhu lobhA ..
+nAnA taru phala phUla suhA_e. khaga mR^iga bR^i.nda dekhi mana bhA_e ..
+saila bisAla dekhi eka Age.n. tA para dhA_i chaDhe_u bhaya tyAge.n ..
+umA na kachhu kapi kai adhikA_I. prabhu pratApa jo kAlahi khA_I ..
+giri para chaDhi la.nkA tehi.n dekhI. kahi na jA_i ati durga biseShI ..
+ati uta.nga jalanidhi chahu pAsA. kanaka koTa kara parama prakAsA ..
+chha.n. kanaka koTa bichitra mani kR^ita su.ndarAyatanA ghanA.
+cha_uhaTTa haTTa subaTTa bIthI.n chAru pura bahu bidhi banA .
+gaja bAji khachchara nikara padachara ratha barUthinha ko ganai .
+bahurUpa nisichara jUtha atibala sena baranata nahi.n banai .. 1 ..
+bana bAga upabana bATikA sara kUpa bApI.n sohahI.n.
+nara nAga sura ga.ndharba kanyA rUpa muni mana mohahI.n .
+kahu.N mAla deha bisAla saila samAna atibala garjahI.n.
+nAnA akhArenha bhirahi.n bahu bidhi eka ekanha tarjahI.n .. 2 ..
+kari jatana bhaTa koTinha bikaTa tana nagara chahu.N disi rachchhahI.n.
+kahu.N mahiSha mAnaShu dhenu khara aja khala nisAchara bhachchhahI.n .
+ehi lAgi tulasIdAsa inha kI kathA kachhu eka hai kahI.
+raghubIra sara tIratha sarIranhi tyAgi gati paihahi.n sahI .. 3 ..
+do. pura rakhavAre dekhi bahu kapi mana kInha bichAra.
+ati laghu rUpa dharau.n nisi nagara karau.n pa_isAra .. 3 ..
+masaka samAna rUpa kapi dharI. la.nkahi chale_u sumiri naraharI ..
+nAma la.nkinI eka nisicharI. so kaha chalesi mohi ni.ndarI ..
+jAnehi nahI.n maramu saTha morA. mora ahAra jahA.N lagi chorA ..
+muThikA eka mahA kapi hanI. rudhira bamata dharanI.n DhanamanI ..
+puni sa.nbhAri uThi so la.nkA. jori pAni kara binaya sa.nsakA ..
+jaba rAvanahi brahma bara dInhA. chalata bira.nchi kahA mohi chInhA ..
+bikala hosi tai.n kapi ke.n mAre. taba jAnesu nisichara sa.nghAre ..
+tAta mora ati punya bahUtA. dekhe_u.N nayana rAma kara dUtA ..
+do. tAta svarga apabarga sukha dhari_a tulA eka a.nga.
+tUla na tAhi sakala mili jo sukha lava satasa.nga .. 4 ..
+prabisi nagara kIje saba kAjA. hR^idaya.N rAkhi kausalapura rAjA ..
+garala sudhA ripu karahi.n mitA_I. gopada si.ndhu anala sitalA_I ..
+garu.Da sumeru renU sama tAhI. rAma kR^ipA kari chitavA jAhI ..
+ati laghu rUpa dhare_u hanumAnA. paiThA nagara sumiri bhagavAnA ..
+ma.ndira ma.ndira prati kari sodhA. dekhe jaha.N taha.N aganita jodhA ..
+gaya_u dasAnana ma.ndira mAhI.n. ati bichitra kahi jAta so nAhI.n ..
+sayana ki_e dekhA kapi tehI. ma.ndira mahu.N na dIkhi baidehI ..
+bhavana eka puni dIkha suhAvA. hari ma.ndira taha.N bhinna banAvA ..
+do. rAmAyudha a.nkita gR^iha sobhA barani na jA_i.
+nava tulasikA bR^i.nda taha.N dekhi haraShi kapirA_i .. 5 ..
+la.nkA nisichara nikara nivAsA. ihA.N kahA.N sajjana kara bAsA ..
+mana mahu.N taraka karai kapi lAgA. tehI.n samaya bibhIShanu jAgA ..
+rAma rAma tehi.n sumirana kInhA. hR^idaya.N haraSha kapi sajjana chInhA ..
+ehi sana haThi kariha_u.N pahichAnI. sAdhu te ho_i na kAraja hAnI ..
+bipra rupa dhari bachana sunA_e. sunata bibhIShaNa uThi taha.N A_e ..
+kari pranAma pU.NchhI kusalA_I. bipra kahahu nija kathA bujhA_I ..
+kI tumha hari dAsanha maha.N ko_I. more.n hR^idaya prIti ati ho_I ..
+kI tumha rAmu dIna anurAgI. Ayahu mohi karana ba.DabhAgI ..
+do. taba hanuma.nta kahI saba rAma kathA nija nAma.
+sunata jugala tana pulaka mana magana sumiri guna grAma .. 6 ..
+sunahu pavanasuta rahani hamArI. jimi dasananhi mahu.N jIbha bichArI ..
+tAta kabahu.N mohi jAni anAthA. karihahi.n kR^ipA bhAnukula nAthA ..
+tAmasa tanu kachhu sAdhana nAhI.n. prIti na pada saroja mana mAhI.n ..
+aba mohi bhA bharosa hanuma.ntA. binu harikR^ipA milahi.n nahi.n sa.ntA ..
+jau raghubIra anugraha kInhA. tau tumha mohi darasu haThi dInhA ..
+sunahu bibhIShana prabhu kai rItI. karahi.n sadA sevaka para prItI ..
+kahahu kavana mai.n parama kulInA. kapi cha.nchala sabahI.n bidhi hInA ..
+prAta le_i jo nAma hamArA. tehi dina tAhi na milai ahArA ..
+do. asa mai.n adhama sakhA sunu mohU para raghubIra.
+kInhI kR^ipA sumiri guna bhare bilochana nIra .. 7 ..
+jAnatahU.N asa svAmi bisArI. phirahi.n te kAhe na hohi.n dukhArI ..
+ehi bidhi kahata rAma guna grAmA. pAvA anirbAchya bishrAmA ..
+puni saba kathA bibhIShana kahI. jehi bidhi janakasutA taha.N rahI ..
+taba hanuma.nta kahA sunu bhrAtA. dekhI chaha_u.N jAnakI mAtA ..
+juguti bibhIShana sakala sunA_I. chale_u pavanasuta bidA karA_I ..
+kari so_i rUpa gaya_u puni tahavA.N. bana asoka sItA raha jahavA.N ..
+dekhi manahi mahu.N kInha pranAmA. baiThehi.n bIti jAta nisi jAmA ..
+kR^isa tana sIsa jaTA eka benI. japati hR^idaya.N raghupati guna shrenI ..
+do. nija pada nayana di_e.N mana rAma pada kamala lIna.
+parama dukhI bhA pavanasuta dekhi jAnakI dIna .. 8 ..
+taru pallava mahu.N rahA lukA_I. kara_i bichAra karau.n kA bhA_I ..
+tehi avasara rAvanu taha.N AvA. sa.nga nAri bahu ki_e.N banAvA ..
+bahu bidhi khala sItahi samujhAvA. sAma dAna bhaya bheda dekhAvA ..
+kaha rAvanu sunu sumukhi sayAnI. ma.ndodarI Adi saba rAnI ..
+tava anucharI.n kara_u.N pana morA. eka bAra biloku mama orA ..
+tR^ina dhari oTa kahati baidehI. sumiri avadhapati parama sanehI ..
+sunu dasamukha khadyota prakAsA. kabahu.N ki nalinI kara_i bikAsA ..
+asa mana samujhu kahati jAnakI. khala sudhi nahi.n raghubIra bAna kI ..
+saTha sUne hari Anehi mohi. adhama nilajja lAja nahi.n tohI ..
+do. Apuhi suni khadyota sama rAmahi bhAnu samAna.
+paruSha bachana suni kA.Dhi asi bolA ati khisi_Ana .. 9 ..
+sItA tai.n mama kR^ita apamAnA. kaTiha_u.N tava sira kaThina kR^ipAnA ..
+nAhi.n ta sapadi mAnu mama bAnI. sumukhi hoti na ta jIvana hAnI ..
+syAma saroja dAma sama su.ndara. prabhu bhuja kari kara sama dasaka.ndhara ..
+so bhuja ka.nTha ki tava asi ghorA. sunu saTha asa pravAna pana morA ..
+cha.ndrahAsa haru mama paritApa.n. raghupati biraha anala sa.njAta.n ..
+sItala nisita bahasi bara dhArA. kaha sItA haru mama dukha bhArA ..
+sunata bachana puni mArana dhAvA. mayatanayA.N kahi nIti bujhAvA ..
+kahesi sakala nisicharinha bolA_I. sItahi bahu bidhi trAsahu jA_I ..
+mAsa divasa mahu.N kahA na mAnA. tau mai.n mArabi kA.Dhi kR^ipAnA ..
+do. bhavana gaya_u dasaka.ndhara ihA.N pisAchini bR^i.nda.
+sItahi trAsa dekhAvahi dharahi.n rUpa bahu ma.nda .. 10 ..
+trijaTA nAma rAchchhasI ekA. rAma charana rati nipuna bibekA ..
+sabanhau boli sunA_esi sapanA. sItahi se_i karahu hita apanA ..
+sapane.n bAnara la.nkA jArI. jAtudhAna senA saba mArI ..
+khara ArU.Dha nagana dasasIsA. mu.nDita sira kha.nDita bhuja bIsA ..
+ehi bidhi so dachchhina disi jA_I. la.nkA manahu.N bibhIShana pA_I ..
+nagara phirI raghubIra dohA_I. taba prabhu sItA boli paThA_I ..
+yaha sapanA me.n kaha_u.N pukArI. ho_ihi satya ga_e.N dina chArI ..
+tAsu bachana suni te saba DarI.n. janakasutA ke charananhi parI.n ..
+do. jaha.N taha.N ga_I.n sakala taba sItA kara mana socha.
+mAsa divasa bIte.n mohi mArihi nisichara pocha .. 11 ..
+trijaTA sana bolI kara jorI. mAtu bipati sa.ngini tai.n morI ..
+tajau.n deha karu begi upA_I. dusahu birahu aba nahi.n sahi jA_I ..
+Ani kATha rachu chitA banA_I. mAtu anala puni dehi lagA_I ..
+satya karahi mama prIti sayAnI. sunai ko shravana sUla sama bAnI ..
+sunata bachana pada gahi samujhA_esi. prabhu pratApa bala sujasu sunA_esi ..
+nisi na anala mila sunu sukumArI. asa kahi so nija bhavana sidhArI ..
+kaha sItA bidhi bhA pratikUlA. milahi na pAvaka miTihi na sUlA ..
+dekhi_ata pragaTa gagana a.ngArA. avani na Avata eka_u tArA ..
+pAvakamaya sasi stravata na AgI. mAnahu.N mohi jAni hatabhAgI ..
+sunahi binaya mama biTapa asokA. satya nAma karu haru mama sokA ..
+nUtana kisalaya anala samAnA. dehi agini jani karahi nidAnA ..
+dekhi parama birahAkula sItA. so chhana kapihi kalapa sama bItA ..
+so. kapi kari hR^idaya.N bichAra dInhi mudrikA DArI taba.
+janu asoka a.ngAra dInhi haraShi uThi kara gahe_u .. 12 ..
+taba dekhI mudrikA manohara. rAma nAma a.nkita ati su.ndara ..
+chakita chitava mudarI pahichAnI. haraSha biShAda hR^idaya.N akulAnI ..
+jIti ko saka_i ajaya raghurA_I. mAyA te.n asi rachi nahi.n jA_I ..
+sItA mana bichAra kara nAnA. madhura bachana bole_u hanumAnA ..
+rAmacha.ndra guna baranai.n lAgA. sunatahi.n sItA kara dukha bhAgA ..
+lAgI.n sunai.n shravana mana lA_I. Adihu te.n saba kathA sunA_I ..
+shravanAmR^ita jehi.n kathA suhA_I. kahi so pragaTa hoti kina bhA_I ..
+taba hanuma.nta nikaTa chali gaya_U. phiri bai.nThI.n mana bisamaya bhaya_U ..
+rAma dUta mai.n mAtu jAnakI. satya sapatha karunAnidhAna kI ..
+yaha mudrikA mAtu mai.n AnI. dInhi rAma tumha kaha.N sahidAnI ..
+nara bAnarahi sa.nga kahu kaise.n. kahi kathA bha_i sa.ngati jaise.n ..
+do. kapi ke bachana saprema suni upajA mana bisvAsa.
+jAnA mana krama bachana yaha kR^ipAsi.ndhu kara dAsa .. 13 ..
+harijana jAni prIti ati gA.DhI. sajala nayana pulakAvali bA.DhI ..
+bU.Data biraha jaladhi hanumAnA. bhaya_u tAta mo.n kahu.N jalajAnA ..
+aba kahu kusala jA_u.N balihArI. anuja sahita sukha bhavana kharArI ..
+komalachita kR^ipAla raghurA_I. kapi kehi hetu dharI niThurA_I ..
+sahaja bAni sevaka sukha dAyaka. kabahu.Nka surati karata raghunAyaka ..
+kabahu.N nayana mama sItala tAtA. ho_ihahi nirakhi syAma mR^idu gAtA ..
+bachanu na Ava nayana bhare bArI. ahaha nAtha hau.n nipaTa bisArI ..
+dekhi parama birahAkula sItA. bolA kapi mR^idu bachana binItA ..
+mAtu kusala prabhu anuja sametA. tava dukha dukhI sukR^ipA niketA ..
+jani jananI mAnahu jiya.N UnA. tumha te premu rAma ke.n dUnA ..
+do. raghupati kara sa.ndesu aba sunu jananI dhari dhIra.
+asa kahi kapi gada gada bhaya_u bhare bilochana nIra .. 14 ..
+kahe_u rAma biyoga tava sItA. mo kahu.N sakala bha_e biparItA ..
+nava taru kisalaya manahu.N kR^isAnU. kAlanisA sama nisi sasi bhAnU ..
+kubalaya bipina ku.nta bana sarisA. bArida tapata tela janu barisA ..
+je hita rahe karata te_i pIrA. uraga svAsa sama tribidha samIrA ..
+kahehU te.n kachhu dukha ghaTi ho_I. kAhi kahau.n yaha jAna na ko_I ..
+tattva prema kara mama aru torA. jAnata priyA eku manu morA ..
+so manu sadA rahata tohi pAhI.n. jAnu prIti rasu etenahi mAhI.n ..
+prabhu sa.ndesu sunata baidehI. magana prema tana sudhi nahi.n tehI ..
+kaha kapi hR^idaya.N dhIra dharu mAtA. sumiru rAma sevaka sukhadAtA ..
+ura Anahu raghupati prabhutA_I. suni mama bachana tajahu kadarA_I ..
+do. nisichara nikara pata.nga sama raghupati bAna kR^isAnu.
+jananI hR^idaya.N dhIra dharu jare nisAchara jAnu .. 15 ..
+jau.n raghubIra hoti sudhi pA_I. karate nahi.n bila.nbu raghurA_I ..
+rAmabAna rabi u_e.N jAnakI. tama barUtha kaha.N jAtudhAna kI ..
+abahi.n mAtu mai.n jA_u.N lavA_I. prabhu Ayasu nahi.n rAma dohA_I ..
+kachhuka divasa jananI dharu dhIrA. kapinha sahita a_ihahi.n raghubIrA ..
+nisichara mAri tohi lai jaihahi.n. tihu.N pura nAradAdi jasu gaihahi.n ..
+hai.n suta kapi saba tumhahi samAnA. jAtudhAna ati bhaTa balavAnA ..
+more.n hR^idaya parama sa.ndehA. suni kapi pragaTa kInha nija dehA ..
+kanaka bhUdharAkAra sarIrA. samara bhaya.nkara atibala bIrA ..
+sItA mana bharosa taba bhaya_U. puni laghu rUpa pavanasuta laya_U ..
+do. sunu mAtA sAkhAmR^iga nahi.n bala buddhi bisAla.
+prabhu pratApa te.n garu.Dahi khA_i parama laghu byAla .. 16 ..
+mana sa.ntoSha sunata kapi bAnI. bhagati pratApa teja bala sAnI ..
+AsiSha dInhi rAmapriya jAnA. hohu tAta bala sIla nidhAnA ..
+ajara amara gunanidhi suta hohU. karahu.N bahuta raghunAyaka chhohU ..
+karahu.N kR^ipA prabhu asa suni kAnA. nirbhara prema magana hanumAnA ..
+bAra bAra nA_esi pada sIsA. bolA bachana jori kara kIsA ..
+aba kR^itakR^itya bhaya_u.N mai.n mAtA. AsiSha tava amogha bikhyAtA ..
+sunahu mAtu mohi atisaya bhUkhA. lAgi dekhi su.ndara phala rUkhA ..
+sunu suta karahi.n bipina rakhavArI. parama subhaTa rajanIchara bhArI ..
+tinha kara bhaya mAtA mohi nAhI.n. jau.n tumha sukha mAnahu mana mAhI.n ..
+do. dekhi buddhi bala nipuna kapi kahe_u jAnakI.n jAhu.
+raghupati charana hR^idaya.N dhari tAta madhura phala khAhu .. 17 ..
+chale_u nA_i siru paiThe_u bAgA. phala khA_esi taru torai.n lAgA ..
+rahe tahA.N bahu bhaTa rakhavAre. kachhu mAresi kachhu jA_i pukAre ..
+nAtha eka AvA kapi bhArI. tehi.n asoka bATikA ujArI ..
+khA_esi phala aru biTapa upAre. rachchhaka mardi mardi mahi DAre ..
+suni rAvana paTha_e bhaTa nAnA. tinhahi dekhi garje_u hanumAnA ..
+saba rajanIchara kapi sa.nghAre. ga_e pukArata kachhu adhamAre ..
+puni paThaya_u tehi.n achchhakumArA. chalA sa.nga lai subhaTa apArA ..
+Avata dekhi biTapa gahi tarjA. tAhi nipAti mahAdhuni garjA ..
+do. kachhu mAresi kachhu mardesi kachhu mila_esi dhari dhUri.
+kachhu puni jA_i pukAre prabhu markaTa bala bhUri .. 18 ..
+suni suta badha la.nkesa risAnA. paTha_esi meghanAda balavAnA ..
+mArasi jani suta bA.ndhesu tAhI. dekhi_a kapihi kahA.N kara AhI ..
+chalA i.ndrajita atulita jodhA. ba.ndhu nidhana suni upajA krodhA ..
+kapi dekhA dAruna bhaTa AvA. kaTakaTA_i garjA aru dhAvA ..
+ati bisAla taru eka upArA. biratha kInha la.nkesa kumArA ..
+rahe mahAbhaTa tAke sa.ngA. gahi gahi kapi marda_i nija a.ngA ..
+tinhahi nipAti tAhi sana bAjA. bhire jugala mAnahu.N gajarAjA.
+muThikA mAri cha.DhA taru jA_I. tAhi eka chhana muruchhA A_I ..
+uThi bahori kInhisi bahu mAyA. jIti na jA_i prabha.njana jAyA ..
+do. brahma astra tehi.n sA.NdhA kapi mana kInha bichAra.
+jau.n na brahmasara mAna_u.N mahimA miTa_i apAra .. 19 ..
+brahmabAna kapi kahu.N tehi mArA. paratihu.N bAra kaTaku sa.nghArA ..
+tehi dekhA kapi muruchhita bhaya_U. nAgapAsa bA.Ndhesi lai gaya_U ..
+jAsu nAma japi sunahu bhavAnI. bhava ba.ndhana kATahi.n nara gyAnI ..
+tAsu dUta ki ba.ndha taru AvA. prabhu kAraja lagi kapihi.n ba.NdhAvA ..
+kapi ba.ndhana suni nisichara dhA_e. kautuka lAgi sabhA.N saba A_e ..
+dasamukha sabhA dIkhi kapi jA_I. kahi na jA_i kachhu ati prabhutA_I ..
+kara jore.n sura disipa binItA. bhR^ikuTi bilokata sakala sabhItA ..
+dekhi pratApa na kapi mana sa.nkA. jimi ahigana mahu.N garu.Da asa.nkA ..
+do. kapihi biloki dasAnana bihasA kahi durbAda.
+suta badha surati kInhi puni upajA hR^idaya.N biShAda .. 20 ..
+kaha la.nkesa kavana tai.n kIsA. kehi.n ke bala ghAlehi bana khIsA ..
+kI dhau.n shravana sunehi nahi.n mohI. dekha_u.N ati asa.nka saTha tohI ..
+mAre nisichara kehi.n aparAdhA. kahu saTha tohi na prAna ka_i bAdhA ..
+suna rAvana brahmA.nDa nikAyA. pA_i jAsu bala birachita mAyA ..
+jAke.n bala bira.nchi hari IsA. pAlata sR^ijata harata dasasIsA.
+jA bala sIsa dharata sahasAnana. a.nDakosa sameta giri kAnana ..
+dhara_i jo bibidha deha suratrAtA. tumha te saThanha sikhAvanu dAtA.
+hara koda.nDa kaThina jehi bha.njA. tehi sameta nR^ipa dala mada ga.njA ..
+khara dUShana trisirA aru bAlI. badhe sakala atulita balasAlI ..
+do. jAke bala lavalesa te.n jitehu charAchara jhAri.
+tAsu dUta mai.n jA kari hari Anehu priya nAri .. 21 ..
+jAna_u.N mai.n tumhAri prabhutA_I. sahasabAhu sana parI larA_I ..
+samara bAli sana kari jasu pAvA. suni kapi bachana bihasi biharAvA ..
+khAya_u.N phala prabhu lAgI bhU.NkhA. kapi subhAva te.n tore_u.N rUkhA ..
+saba ke.n deha parama priya svAmI. mArahi.n mohi kumAraga gAmI ..
+jinha mohi mArA te mai.n mAre. tehi para bA.Ndhe_u tanaya.N tumhAre ..
+mohi na kachhu bA.Ndhe ka_i lAjA. kInha chaha_u.N nija prabhu kara kAjA ..
+binatI kara_u.N jori kara rAvana. sunahu mAna taji mora sikhAvana ..
+dekhahu tumha nija kulahi bichArI. bhrama taji bhajahu bhagata bhaya hArI ..
+jAke.n Dara ati kAla DerA_I. jo sura asura charAchara khA_I ..
+tAso.n bayaru kabahu.N nahi.n kIjai. more kahe.n jAnakI dIjai ..
+do. pranatapAla raghunAyaka karunA si.ndhu kharAri.
+ga_e.N sarana prabhu rAkhihai.n tava aparAdha bisAri .. 22 ..
+rAma charana pa.nkaja ura dharahU. la.nkA achala rAja tumha karahU ..
+riShi pulista jasu bimala ma.nyakA. tehi sasi mahu.N jani hohu kala.nkA ..
+rAma nAma binu girA na sohA. dekhu bichAri tyAgi mada mohA ..
+basana hIna nahi.n soha surArI. saba bhUShaNa bhUShita bara nArI ..
+rAma bimukha sa.npati prabhutA_I. jA_i rahI pA_I binu pA_I ..
+sajala mUla jinha saritanha nAhI.n. baraShi ga_e puni tabahi.n sukhAhI.n ..
+sunu dasaka.nTha kaha_u.N pana ropI. bimukha rAma trAtA nahi.n kopI ..
+sa.nkara sahasa biShnu aja tohI. sakahi.n na rAkhi rAma kara drohI ..
+do. mohamUla bahu sUla prada tyAgahu tama abhimAna.
+bhajahu rAma raghunAyaka kR^ipA si.ndhu bhagavAna .. 23 ..
+jadapi kahi kapi ati hita bAnI. bhagati bibeka birati naya sAnI ..
+bolA bihasi mahA abhimAnI. milA hamahi kapi gura ba.Da gyAnI ..
+mR^ityu nikaTa A_I khala tohI. lAgesi adhama sikhAvana mohI ..
+ulaTA ho_ihi kaha hanumAnA. matibhrama tora pragaTa mai.n jAnA ..
+suni kapi bachana bahuta khisi_AnA. begi na harahu.N mU.Dha kara prAnA ..
+sunata nisAchara mArana dhA_e. sachivanha sahita bibhIShanu A_e.
+nA_i sIsa kari binaya bahUtA. nIti birodha na mAri_a dUtA ..
+Ana da.nDa kachhu kari_a gosA.NI. sabahI.n kahA ma.ntra bhala bhA_I ..
+sunata bihasi bolA dasaka.ndhara. a.nga bha.nga kari paThaya_i_a ba.ndara ..
+do. kapi ke.n mamatA pU.Nchha para sabahi kaha_u.N samujhA_i.
+tela bori paTa bA.Ndhi puni pAvaka dehu lagA_i .. 24 ..
+pU.NchhahIna bAnara taha.N jA_ihi. taba saTha nija nAthahi la_i A_ihi ..
+jinha kai kInhasi bahuta ba.DA_I. dekhe_u.N mai.n tinha kai prabhutA_I ..
+bachana sunata kapi mana musukAnA. bha_i sahAya sArada mai.n jAnA ..
+jAtudhAna suni rAvana bachanA. lAge rachai.n mU.Dha so_i rachanA ..
+rahA na nagara basana ghR^ita telA. bA.DhI pU.Nchha kInha kapi khelA ..
+kautuka kaha.N A_e purabAsI. mArahi.n charana karahi.n bahu hA.NsI ..
+bAjahi.n Dhola dehi.n saba tArI. nagara pheri puni pU.Nchha prajArI ..
+pAvaka jarata dekhi hanuma.ntA. bhaya_u parama laghu rupa tura.ntA ..
+nibuki cha.Dhe_u kapi kanaka aTArI.n. bha_I sabhIta nisAchara nArI.n ..
+do. hari prerita tehi avasara chale maruta unachAsa.
+aTTahAsa kari garzA kapi ba.Dhi lAga akAsa .. 25 ..
+deha bisAla parama haru_A_I. ma.ndira te.n ma.ndira cha.Dha dhA_I ..
+jara_i nagara bhA loga bihAlA. jhapaTa lapaTa bahu koTi karAlA ..
+tAta mAtu hA suni_a pukArA. ehi avasara ko hamahi ubArA ..
+hama jo kahA yaha kapi nahi.n ho_I. bAnara rUpa dhare.n sura ko_I ..
+sAdhu avagyA kara phalu aisA. jara_i nagara anAtha kara jaisA ..
+jArA nagaru nimiSha eka mAhI.n. eka bibhIShana kara gR^iha nAhI.n ..
+tA kara dUta anala jehi.n sirijA. jarA na so tehi kArana girijA ..
+ulaTi palaTi la.nkA saba jArI. kUdi parA puni si.ndhu majhArI ..
+do. pU.Nchha bujhA_i kho_i shrama dhari laghu rUpa bahori.
+janakasutA ke Age.n ThA.Dha bhaya_u kara jori .. 26 ..
+mAtu mohi dIje kachhu chInhA. jaise.n raghunAyaka mohi dInhA ..
+chU.DAmani utAri taba daya_U. haraSha sameta pavanasuta laya_U ..
+kahehu tAta asa mora pranAmA. saba prakAra prabhu pUranakAmA ..
+dIna dayAla biridu sa.nbhArI. harahu nAtha mama sa.nkaTa bhArI ..
+tAta sakrasuta kathA sunA_ehu. bAna pratApa prabhuhi samujhA_ehu ..
+mAsa divasa mahu.N nAthu na AvA. tau puni mohi ji_ata nahi.n pAvA ..
+kahu kapi kehi bidhi rAkhau.n prAnA. tumhahU tAta kahata aba jAnA ..
+tohi dekhi sItali bha_i chhAtI. puni mo kahu.N so_i dinu so rAtI ..
+do. janakasutahi samujhA_i kari bahu bidhi dhIraju dInha.
+charana kamala siru nA_i kapi gavanu rAma pahi.n kInha .. 27 ..
+chalata mahAdhuni garjesi bhArI. garbha stravahi.n suni nisichara nArI ..
+nAghi si.ndhu ehi pArahi AvA. sabada kilakilA kapinha sunAvA ..
+haraShe saba biloki hanumAnA. nUtana janma kapinha taba jAnA ..
+mukha prasanna tana teja birAjA. kInhesi rAmachandra kara kAjA ..
+mile sakala ati bha_e sukhArI. talaphata mIna pAva jimi bArI ..
+chale haraShi raghunAyaka pAsA. pU.Nchhata kahata navala itihAsA ..
+taba madhubana bhItara saba A_e. a.ngada sa.nmata madhu phala khA_e ..
+rakhavAre jaba barajana lAge. muShTi prahAra hanata saba bhAge ..
+do. jA_i pukAre te saba bana ujAra jubarAja.
+suni sugrIva haraSha kapi kari A_e prabhu kAja .. 28 ..
+jau.n na hoti sItA sudhi pA_I. madhubana ke phala sakahi.n ki khA_I ..
+ehi bidhi mana bichAra kara rAjA. A_i ga_e kapi sahita samAjA ..
+A_i sabanhi nAvA pada sIsA. mile_u sabanhi ati prema kapIsA ..
+pU.NchhI kusala kusala pada dekhI. rAma kR^ipA.N bhA kAju biseShI ..
+nAtha kAju kInhe_u hanumAnA. rAkhe sakala kapinha ke prAnA ..
+suni sugrIva bahuri tehi mile_U. kapinha sahita raghupati pahi.n chale_U.
+rAma kapinha jaba Avata dekhA. ki_e.N kAju mana haraSha biseShA ..
+phaTika silA baiThe dvau bhA_I. pare sakala kapi charananhi jA_I ..
+do. prIti sahita saba bheTe raghupati karunA pu.nja.
+pU.NchhI kusala nAtha aba kusala dekhi pada ka.nja .. 29 ..
+jAmava.nta kaha sunu raghurAyA. jA para nAtha karahu tumha dAyA ..
+tAhi sadA subha kusala nira.ntara. sura nara muni prasanna tA Upara ..
+so_i bija_I bina_I guna sAgara. tAsu sujasu treloka ujAgara ..
+prabhu kI.n kR^ipA bhaya_u sabu kAjU. janma hamAra suphala bhA AjU ..
+nAtha pavanasuta kInhi jo karanI. sahasahu.N mukha na jA_i so baranI ..
+pavanatanaya ke charita suhA_e. jAmava.nta raghupatihi sunA_e ..
+sunata kR^ipAnidhi mana ati bhA_e. puni hanumAna haraShi hiya.N lA_e ..
+kahahu tAta kehi bhA.Nti jAnakI. rahati karati rachchhA svaprAna kI ..
+do. nAma pAharu divasa nisi dhyAna tumhAra kapATa.
+lochana nija pada ja.ntrita jAhi.n prAna kehi.n bATa .. 30 ..
+chalata mohi chU.DAmani dInhI. raghupati hR^idaya.N lA_i so_i lInhI ..
+nAtha jugala lochana bhari bArI. bachana kahe kachhu janakakumArI ..
+anuja sameta gahehu prabhu charanA. dIna ba.ndhu pranatArati haranA ..
+mana krama bachana charana anurAgI. kehi aparAdha nAtha hau.n tyAgI ..
+avaguna eka mora mai.n mAnA. bichhurata prAna na kInha payAnA ..
+nAtha so nayananhi ko aparAdhA. nisarata prAna karihi.n haThi bAdhA ..
+biraha agini tanu tUla samIrA. svAsa jara_i chhana mAhi.n sarIrA ..
+nayana stravahi jalu nija hita lAgI. jarai.n na pAva deha birahAgI.
+sItA ke ati bipati bisAlA. binahi.n kahe.n bhali dInadayAlA ..
+do. nimiSha nimiSha karunAnidhi jAhi.n kalapa sama bIti.
+begi chaliya prabhu Ani_a bhuja bala khala dala jIti .. 31 ..
+suni sItA dukha prabhu sukha ayanA. bhari A_e jala rAjiva nayanA ..
+bachana kA.Nya mana mama gati jAhI. sapanehu.N bUjhi_a bipati ki tAhI ..
+kaha hanuma.nta bipati prabhu so_I. jaba tava sumirana bhajana na ho_I ..
+ketika bAta prabhu jAtudhAna kI. ripuhi jIti AnibI jAnakI ..
+sunu kapi tohi samAna upakArI. nahi.n ko_u sura nara muni tanudhArI ..
+prati upakAra karau.n kA torA. sanamukha ho_i na sakata mana morA ..
+sunu suta urina mai.n nAhI.n. dekhe_u.N kari bichAra mana mAhI.n ..
+puni puni kapihi chitava suratrAtA. lochana nIra pulaka ati gAtA ..
+do. suni prabhu bachana biloki mukha gAta haraShi hanuma.nta.
+charana pare_u premAkula trAhi trAhi bhagava.nta .. 32 ..
+bAra bAra prabhu chaha_i uThAvA. prema magana tehi uThaba na bhAvA ..
+prabhu kara pa.nkaja kapi ke.n sIsA. sumiri so dasA magana gaurIsA ..
+sAvadhAna mana kari puni sa.nkara. lAge kahana kathA ati su.ndara ..
+kapi uThA_i prabhu hR^idaya.N lagAvA. kara gahi parama nikaTa baiThAvA ..
+kahu kapi rAvana pAlita la.nkA. kehi bidhi dahe_u durga ati ba.nkA ..
+prabhu prasanna jAnA hanumAnA. bolA bachana bigata abhimAnA ..
+sAkhAmR^iga ke ba.Di manusA_I. sAkhA te.n sAkhA para jA_I ..
+nAghi si.ndhu hATakapura jArA. nisichara gana bidhi bipina ujArA.
+so saba tava pratApa raghurA_I. nAtha na kachhU mori prabhutA_I ..
+do. tA kahu.N prabhu kachhu agama nahi.n jA para tumha anukula.
+taba prabhAva.N ba.DavAnalahi.n jAri saka_i khalu tUla .. 33 ..
+nAtha bhagati ati sukhadAyanI. dehu kR^ipA kari anapAyanI ..
+suni prabhu parama sarala kapi bAnI. evamastu taba kahe_u bhavAnI ..
+umA rAma subhA_u jehi.n jAnA. tAhi bhajanu taji bhAva na AnA ..
+yaha sa.nvAda jAsu ura AvA. raghupati charana bhagati so_i pAvA ..
+suni prabhu bachana kahahi.n kapibR^i.ndA. jaya jaya jaya kR^ipAla sukhaka.ndA ..
+taba raghupati kapipatihi bolAvA. kahA chalai.n kara karahu banAvA ..
+aba bila.nbu kehi kArana kIje. turata kapinha kahu.N Ayasu dIje ..
+kautuka dekhi sumana bahu baraShI. nabha te.n bhavana chale sura haraShI ..
+do. kapipati begi bolA_e A_e jUthapa jUtha.
+nAnA barana atula bala bAnara bhAlu barUtha .. 34 ..
+prabhu pada pa.nkaja nAvahi.n sIsA. garajahi.n bhAlu mahAbala kIsA ..
+dekhI rAma sakala kapi senA. chita_i kR^ipA kari rAjiva nainA ..
+rAma kR^ipA bala pA_i kapi.ndA. bha_e pachchhajuta manahu.N giri.ndA ..
+haraShi rAma taba kInha payAnA. saguna bha_e su.ndara subha nAnA ..
+jAsu sakala ma.ngalamaya kItI. tAsu payAna saguna yaha nItI ..
+prabhu payAna jAnA baidehI.n. pharaki bAma a.Nga janu kahi dehI.n ..
+jo_i jo_i saguna jAnakihi ho_I. asaguna bhaya_u rAvanahi so_I ..
+chalA kaTaku ko baranai.n pArA. garjahi bAnara bhAlu apArA ..
+nakha Ayudha giri pAdapadhArI. chale gagana mahi ichchhAchArI ..
+keharinAda bhAlu kapi karahI.n. DagamagAhi.n diggaja chikkarahI.n ..
+chha.n. chikkarahi.n diggaja Dola mahi giri lola sAgara kharabhare.
+mana haraSha sabha ga.ndharba sura muni nAga kinnara dukha Tare .
+kaTakaTahi.n markaTa bikaTa bhaTa bahu koTi koTinha dhAvahI.n.
+jaya rAma prabala pratApa kosalanAtha guna gana gAvahI.n .. 1 ..
+sahi saka na bhAra udAra ahipati bAra bArahi.n moha_I.
+gaha dasana puni puni kamaTha pR^iShTa kaThora so kimi soha_I .
+raghubIra ruchira prayAna prasthiti jAni parama suhAvanI.
+janu kamaTha kharpara sarparAja so likhata abichala pAvanI .. 2 ..
+do. ehi bidhi jA_i kR^ipAnidhi utare sAgara tIra.
+jaha.N taha.N lAge khAna phala bhAlu bipula kapi bIra .. 35 ..
+uhA.N nisAchara rahahi.n sasa.nkA. jaba te jAri gaya_u kapi la.nkA ..
+nija nija gR^iha.N saba karahi.n bichArA. nahi.n nisichara kula kera ubArA ..
+jAsu dUta bala barani na jA_I. tehi A_e.N pura kavana bhalA_I ..
+dUtanhi sana suni purajana bAnI. ma.ndodarI adhika akulAnI ..
+rahasi jori kara pati paga lAgI. bolI bachana nIti rasa pAgI ..
+ka.nta karaSha hari sana pariharahU. mora kahA ati hita hiya.N dharahu ..
+samujhata jAsu dUta ka_i karanI. stravahI.n garbha rajanIchara dharanI ..
+tAsu nAri nija sachiva bolA_I. paThavahu ka.nta jo chahahu bhalA_I ..
+taba kula kamala bipina dukhadA_I. sItA sIta nisA sama A_I ..
+sunahu nAtha sItA binu dInhe.n. hita na tumhAra sa.nbhu aja kInhe.n ..
+do. rAma bAna ahi gana sarisa nikara nisAchara bheka.
+jaba lagi grasata na taba lagi jatanu karahu taji Teka .. 36 ..
+shravana sunI saTha tA kari bAnI. bihasA jagata bidita abhimAnI ..
+sabhaya subhA_u nAri kara sAchA. ma.ngala mahu.N bhaya mana ati kAchA ..
+jau.n Ava_i markaTa kaTakA_I. ji_ahi.n bichAre nisichara khA_I ..
+ka.npahi.n lokapa jAkI trAsA. tAsu nAri sabhIta ba.Di hAsA ..
+asa kahi bihasi tAhi ura lA_I. chale_u sabhA.N mamatA adhikA_I ..
+ma.ndodarI hR^idaya.N kara chi.ntA. bhaya_u ka.nta para bidhi biparItA ..
+baiThe_u sabhA.N khabari asi pA_I. si.ndhu pAra senA saba A_I ..
+bUjhesi sachiva uchita mata kahahU. te saba ha.Nse maShTa kari rahahU ..
+jitehu surAsura taba shrama nAhI.n. nara bAnara kehi lekhe mAhI ..
+do. sachiva baida gura tIni jau.n priya bolahi.n bhaya Asa.
+rAja dharma tana tIni kara ho_i begihI.n nAsa .. 37 ..
+so_i rAvana kahu.N bani sahA_I. astuti karahi.n sunA_i sunA_I ..
+avasara jAni bibhIShanu AvA. bhrAtA charana sIsu tehi.n nAvA ..
+puni siru nA_i baiTha nija Asana. bolA bachana pA_i anusAsana ..
+jau kR^ipAla pU.Nchhihu mohi bAtA. mati anurupa kaha_u.N hita tAtA ..
+jo Apana chAhai kalyAnA. sujasu sumati subha gati sukha nAnA ..
+so paranAri lilAra gosA_I.n. taja_u cha_uthi ke cha.nda ki nA_I ..
+chaudaha bhuvana eka pati ho_I. bhUtadroha tiShTa_i nahi.n so_I ..
+guna sAgara nAgara nara jo_U. alapa lobha bhala kaha_i na ko_U ..
+do. kAma krodha mada lobha saba nAtha naraka ke pa.ntha.
+saba parihari raghubIrahi bhajahu bhajahi.n jehi sa.nta .. 38 ..
+tAta rAma nahi.n nara bhUpAlA. bhuvanesvara kAlahu kara kAlA ..
+brahma anAmaya aja bhagava.ntA. byApaka ajita anAdi ana.ntA ..
+go dvija dhenu deva hitakArI. kR^ipAsi.ndhu mAnuSha tanudhArI ..
+jana ra.njana bha.njana khala brAtA. beda dharma rachchhaka sunu bhrAtA ..
+tAhi bayaru taji nA_i_a mAthA. pranatArati bha.njana raghunAthA ..
+dehu nAtha prabhu kahu.N baidehI. bhajahu rAma binu hetu sanehI ..
+sarana ga_e.N prabhu tAhu na tyAgA. bisva droha kR^ita agha jehi lAgA ..
+jAsu nAma traya tApa nasAvana. so_i prabhu pragaTa samujhu jiya.N rAvana ..
+do. bAra bAra pada lAga_u.N binaya kara_u.N dasasIsa.
+parihari mAna moha mada bhajahu kosalAdhIsa .. 39(ka) ..
+muni pulasti nija siShya sana kahi paTha_I yaha bAta.
+turata so mai.n prabhu sana kahI pA_i su_avasaru tAta .. 39(kha) ..
+mAlyava.nta ati sachiva sayAnA. tAsu bachana suni ati sukha mAnA ..
+tAta anuja tava nIti bibhUShana. so ura dharahu jo kahata bibhIShana ..
+ripu utakaraSha kahata saTha do_U. dUri na karahu ihA.N ha_i ko_U ..
+mAlyava.nta gR^iha gaya_u bahorI. kaha_i bibhIShanu puni kara jorI ..
+sumati kumati saba ke.n ura rahahI.n. nAtha purAna nigama asa kahahI.n ..
+jahA.N sumati taha.N sa.npati nAnA. jahA.N kumati taha.N bipati nidAnA ..
+tava ura kumati basI biparItA. hita anahita mAnahu ripu prItA ..
+kAlarAti nisichara kula kerI. tehi sItA para prIti ghanerI ..
+do. tAta charana gahi mAga_u.N rAkhahu mora dulAra.
+sIta dehu rAma kahu.N ahita na ho_i tumhAra .. 40 ..
+budha purAna shruti sa.nmata bAnI. kahI bibhIShana nIti bakhAnI ..
+sunata dasAnana uThA risA_I. khala tohi nikaTa mutyu aba A_I ..
+ji_asi sadA saTha mora ji_AvA. ripu kara pachchha mU.Dha tohi bhAvA ..
+kahasi na khala asa ko jaga mAhI.n. bhuja bala jAhi jitA mai.n nAhI ..
+mama pura basi tapasinha para prItI. saTha milu jA_i tinhahi kahu nItI ..
+asa kahi kInhesi charana prahArA. anuja gahe pada bArahi.n bArA ..
+umA sa.nta ka_i iha_i ba.DA_I. ma.nda karata jo kara_i bhalA_I ..
+tumha pitu sarisa bhalehi.n mohi mArA. rAmu bhaje.n hita nAtha tumhArA ..
+sachiva sa.nga lai nabha patha gaya_U. sabahi sunA_i kahata asa bhaya_U ..
+do. rAmu satyasa.nkalpa prabhu sabhA kAlabasa tori.
+mai raghubIra sarana aba jA_u.N dehu jani khori .. 41 ..
+asa kahi chalA bibhIShanu jabahI.n. AyUhIna bha_e saba tabahI.n ..
+sAdhu avagyA turata bhavAnI. kara kalyAna akhila kai hAnI ..
+rAvana jabahi.n bibhIShana tyAgA. bhaya_u bibhava binu tabahi.n abhAgA ..
+chale_u haraShi raghunAyaka pAhI.n. karata manoratha bahu mana mAhI.n ..
+dekhiha_u.N jA_i charana jalajAtA. aruna mR^idula sevaka sukhadAtA ..
+je pada parasi tarI riShinArI. da.nDaka kAnana pAvanakArI ..
+je pada janakasutA.N ura lA_e. kapaTa kura.nga sa.nga dhara dhA_e ..
+hara ura sara saroja pada je_I. ahobhAgya mai dekhiha_u.N te_I ..
+do. jinha pAyanha ke pAdukanhi bharatu rahe mana lA_i.
+te pada Aju bilokiha_u.N inha nayananhi aba jA_i .. 42 ..
+ehi bidhi karata saprema bichArA. Aya_u sapadi si.ndhu ehi.n pArA ..
+kapinha bibhIShanu Avata dekhA. jAnA ko_u ripu dUta biseShA ..
+tAhi rAkhi kapIsa pahi.n A_e. samAchAra saba tAhi sunA_e ..
+kaha sugrIva sunahu raghurA_I. AvA milana dasAnana bhA_I ..
+kaha prabhu sakhA bUjhi_ai kAhA. kaha_i kapIsa sunahu naranAhA ..
+jAni na jA_i nisAchara mAyA. kAmarUpa kehi kArana AyA ..
+bheda hamAra lena saTha AvA. rAkhi_a bA.Ndhi mohi asa bhAvA ..
+sakhA nIti tumha nIki bichArI. mama pana saranAgata bhayahArI ..
+suni prabhu bachana haraSha hanumAnA. saranAgata bachchhala bhagavAnA ..
+do. saranAgata kahu.N je tajahi.n nija anahita anumAni.
+te nara pAva.Nra pApamaya tinhahi bilokata hAni .. 43 ..
+koTi bipra badha lAgahi.n jAhU. A_e.N sarana taja_u.N nahi.n tAhU ..
+sanamukha ho_i jIva mohi jabahI.n. janma koTi agha nAsahi.n tabahI.n ..
+pApava.nta kara sahaja subhA_U. bhajanu mora tehi bhAva na kA_U ..
+jau.n pai duShTahR^idaya so_i ho_I. more.n sanamukha Ava ki so_I ..
+nirmala mana jana so mohi pAvA. mohi kapaTa chhala chhidra na bhAvA ..
+bheda lena paThavA dasasIsA. tabahu.N na kachhu bhaya hAni kapIsA ..
+jaga mahu.N sakhA nisAchara jete. lachhimanu hana_i nimiSha mahu.N tete ..
+jau.n sabhIta AvA saranA_I. rakhiha_u.N tAhi prAna kI nA_I ..
+do. ubhaya bhA.Nti tehi Anahu ha.Nsi kaha kR^ipAniketa.
+jaya kR^ipAla kahi chale a.ngada hanU sameta .. 44 ..
+sAdara tehi Age.n kari bAnara. chale jahA.N raghupati karunAkara ..
+dUrihi te dekhe dvau bhrAtA. nayanAna.nda dAna ke dAtA ..
+bahuri rAma chhabidhAma bilokI. rahe_u ThaTuki ekaTaka pala rokI ..
+bhuja prala.nba ka.njAruna lochana. syAmala gAta pranata bhaya mochana ..
+si.ngha ka.ndha Ayata ura sohA. Anana amita madana mana mohA ..
+nayana nIra pulakita ati gAtA. mana dhari dhIra kahI mR^idu bAtA ..
+nAtha dasAnana kara mai.n bhrAtA. nisichara ba.nsa janama suratrAtA ..
+sahaja pApapriya tAmasa dehA. jathA ulUkahi tama para nehA ..
+do. shravana sujasu suni Aya_u.N prabhu bha.njana bhava bhIra.
+trAhi trAhi Arati harana sarana sukhada raghubIra .. 45 ..
+asa kahi karata da.nDavata dekhA. turata uThe prabhu haraSha biseShA ..
+dIna bachana suni prabhu mana bhAvA. bhuja bisAla gahi hR^idaya.N lagAvA ..
+anuja sahita mili Dhiga baiThArI. bole bachana bhagata bhayahArI ..
+kahu la.nkesa sahita parivArA. kusala kuThAhara bAsa tumhArA ..
+khala ma.nDalI.n basahu dinu rAtI. sakhA dharama nibaha_i kehi bhA.NtI ..
+mai.n jAna_u.N tumhAri saba rItI. ati naya nipuna na bhAva anItI ..
+baru bhala bAsa naraka kara tAtA. duShTa sa.nga jani de_i bidhAtA ..
+aba pada dekhi kusala raghurAyA. jau.n tumha kInha jAni jana dAyA ..
+do. taba lagi kusala na jIva kahu.N sapanehu.N mana bishrAma.
+jaba lagi bhajata na rAma kahu.N soka dhAma taji kAma .. 46 ..
+taba lagi hR^idaya.N basata khala nAnA. lobha moha machchhara mada mAnA ..
+jaba lagi ura na basata raghunAthA. dhare.n chApa sAyaka kaTi bhAthA ..
+mamatA taruna tamI a.Ndhi_ArI. rAga dveSha ulUka sukhakArI ..
+taba lagi basati jIva mana mAhI.n. jaba lagi prabhu pratApa rabi nAhI.n ..
+aba mai.n kusala miTe bhaya bhAre. dekhi rAma pada kamala tumhAre ..
+tumha kR^ipAla jA para anukUlA. tAhi na byApa tribidha bhava sUlA ..
+mai.n nisichara ati adhama subhA_U. subha Acharanu kInha nahi.n kA_U ..
+jAsu rUpa muni dhyAna na AvA. tehi.n prabhu haraShi hR^idaya.N mohi lAvA ..
+do. ahobhAgya mama amita ati rAma kR^ipA sukha pu.nja.
+dekhe_u.N nayana bira.nchi siba sebya jugala pada ka.nja .. 47 ..
+sunahu sakhA nija kaha_u.N subhA_U. jAna bhusu.nDi sa.nbhu girijA_U ..
+jau.n nara ho_i charAchara drohI. Ave sabhaya sarana taki mohI ..
+taji mada moha kapaTa chhala nAnA. kara_u.N sadya tehi sAdhu samAnA ..
+jananI janaka ba.ndhu suta dArA. tanu dhanu bhavana suhrada parivArA ..
+saba kai mamatA tAga baTorI. mama pada manahi bA.Ndha bari DorI ..
+samadarasI ichchhA kachhu nAhI.n. haraSha soka bhaya nahi.n mana mAhI.n ..
+asa sajjana mama ura basa kaise.n. lobhI hR^idaya.N basa_i dhanu jaise.n ..
+tumha sArikhe sa.nta priya more.n. dhara_u.N deha nahi.n Ana nihore.n ..
+do. saguna upAsaka parahita nirata nIti dR^i.Dha nema.
+te nara prAna samAna mama jinha ke.n dvija pada prema .. 48 ..
+sunu la.nkesa sakala guna tore.n. tAte.n tumha atisaya priya more.n ..
+rAma bachana suni bAnara jUthA. sakala kahahi.n jaya kR^ipA barUthA ..
+sunata bibhIShanu prabhu kai bAnI. nahi.n aghAta shravanAmR^ita jAnI ..
+pada a.nbuja gahi bArahi.n bArA. hR^idaya.N samAta na premu apArA ..
+sunahu deva sacharAchara svAmI. pranatapAla ura a.ntarajAmI ..
+ura kachhu prathama bAsanA rahI. prabhu pada prIti sarita so bahI ..
+aba kR^ipAla nija bhagati pAvanI. dehu sadA siva mana bhAvanI ..
+evamastu kahi prabhu ranadhIrA. mAgA turata si.ndhu kara nIrA ..
+jadapi sakhA tava ichchhA nAhI.n. mora darasu amogha jaga mAhI.n ..
+asa kahi rAma tilaka tehi sArA. sumana bR^iShTi nabha bha_I apArA ..
+do. rAvana krodha anala nija svAsa samIra pracha.nDa.
+jarata bibhIShanu rAkhe_u dInhehu rAju akha.nDa .. 49(ka) ..
+jo sa.npati siva rAvanahi dInhi di_e.N dasa mAtha.
+so_i sa.npadA bibhIShanahi sakuchi dInha raghunAtha .. 49(kha) ..
+asa prabhu chhA.Di bhajahi.n je AnA. te nara pasu binu pU.Nchha biShAnA ..
+nija jana jAni tAhi apanAvA. prabhu subhAva kapi kula mana bhAvA ..
+puni sarbagya sarba ura bAsI. sarbarUpa saba rahita udAsI ..
+bole bachana nIti pratipAlaka. kArana manuja danuja kula ghAlaka ..
+sunu kapIsa la.nkApati bIrA. kehi bidhi tari_a jaladhi ga.nbhIrA ..
+sa.nkula makara uraga jhaSha jAtI. ati agAdha dustara saba bhA.NtI ..
+kaha la.nkesa sunahu raghunAyaka. koTi si.ndhu soShaka tava sAyaka ..
+jadyapi tadapi nIti asi gA_I. binaya kari_a sAgara sana jA_I ..
+do. prabhu tumhAra kulagura jaladhi kahihi upAya bichAri.
+binu prayAsa sAgara tarihi sakala bhAlu kapi dhAri .. 50 ..
+sakhA kahI tumha nIki upA_I. kari_a daiva jau.n ho_i sahA_I ..
+ma.ntra na yaha lachhimana mana bhAvA. rAma bachana suni ati dukha pAvA ..
+nAtha daiva kara kavana bharosA. soShi_a si.ndhu kari_a mana rosA ..
+kAdara mana kahu.N eka adhArA. daiva daiva AlasI pukArA ..
+sunata bihasi bole raghubIrA. aisehi.n karaba dharahu mana dhIrA ..
+asa kahi prabhu anujahi samujhA_I. si.ndhu samIpa ga_e raghurA_I ..
+prathama pranAma kInha siru nA_I. baiThe puni taTa darbha DasA_I ..
+jabahi.n bibhIShana prabhu pahi.n A_e. pAchhe.n rAvana dUta paThA_e ..
+do. sakala charita tinha dekhe dhare.n kapaTa kapi deha.
+prabhu guna hR^idaya.N sarAhahi.n saranAgata para neha .. 51 ..
+pragaTa bakhAnahi.n rAma subhA_U. ati saprema gA bisari durA_U ..
+ripu ke dUta kapinha taba jAne. sakala bA.Ndhi kapIsa pahi.n Ane ..
+kaha sugrIva sunahu saba bAnara. a.nga bha.nga kari paThavahu nisichara ..
+suni sugrIva bachana kapi dhA_e. bA.Ndhi kaTaka chahu pAsa phirA_e ..
+bahu prakAra mArana kapi lAge. dIna pukArata tadapi na tyAge ..
+jo hamAra hara nAsA kAnA. tehi kosalAdhIsa kai AnA ..
+suni lachhimana saba nikaTa bolA_e. dayA lAgi ha.Nsi turata chhoDA_e ..
+rAvana kara dIjahu yaha pAtI. lachhimana bachana bAchu kulaghAtI ..
+do. kahehu mukhAgara mU.Dha sana mama sa.ndesu udAra.
+sItA de_i milehu na ta AvA kAla tumhAra .. 52 ..
+turata nA_i lachhimana pada mAthA. chale dUta baranata guna gAthA ..
+kahata rAma jasu la.nkA.N A_e. rAvana charana sIsa tinha nA_e ..
+bihasi dasAnana pU.NchhI bAtA. kahasi na suka Apani kusalAtA ..
+puni kahu khabari bibhIShana kerI. jAhi mR^ityu A_I ati nerI ..
+karata rAja la.nkA saTha tyAgI. ho_ihi jaba kara kITa abhAgI ..
+puni kahu bhAlu kIsa kaTakA_I. kaThina kAla prerita chali A_I ..
+jinha ke jIvana kara rakhavArA. bhaya_u mR^idula chita si.ndhu bichArA ..
+kahu tapasinha kai bAta bahorI. jinha ke hR^idaya.N trAsa ati morI ..
+do. kI bha_i bhe.nTa ki phiri ga_e shravana sujasu suni mora.
+kahasi na ripu dala teja bala bahuta chakita chita tora .. 53 ..
+nAtha kR^ipA kari pU.Nchhehu jaise.n. mAnahu kahA krodha taji taise.n ..
+milA jA_i jaba anuja tumhArA. jAtahi.n rAma tilaka tehi sArA ..
+rAvana dUta hamahi suni kAnA. kapinha bA.Ndhi dInhe dukha nAnA ..
+shravana nAsikA kATai lAge. rAma sapatha dInhe hama tyAge ..
+pU.Nchhihu nAtha rAma kaTakA_I. badana koTi sata barani na jA_I ..
+nAnA barana bhAlu kapi dhArI. bikaTAnana bisAla bhayakArI ..
+jehi.n pura dahe_u hate_u suta torA. sakala kapinha maha.N tehi balu thorA ..
+amita nAma bhaTa kaThina karAlA. amita nAga bala bipula bisAlA ..
+do. dvibida maya.nda nIla nala a.ngada gada bikaTAsi.
+dadhimukha kehari nisaTha saTha jAmava.nta balarAsi .. 54 ..
+e kapi saba sugrIva samAnA. inha sama koTinha gana_i ko nAnA ..
+rAma kR^ipA.N atulita bala tinhahI.n. tR^ina samAna trelokahi ganahI.n ..
+asa mai.n sunA shravana dasaka.ndhara. paduma aThAraha jUthapa ba.ndara ..
+nAtha kaTaka maha.N so kapi nAhI.n. jo na tumhahi jItai rana mAhI.n ..
+parama krodha mIjahi.n saba hAthA. Ayasu pai na dehi.n raghunAthA ..
+soShahi.n si.ndhu sahita jhaSha byAlA. pUrahI.n na ta bhari kudhara bisAlA ..
+mardi garda milavahi.n dasasIsA. aise_i bachana kahahi.n saba kIsA ..
+garjahi.n tarjahi.n sahaja asa.nkA. mAnahu grasana chahata hahi.n la.nkA ..
+do. sahaja sUra kapi bhAlu saba puni sira para prabhu rAma.
+rAvana kAla koTi kahu jIti sakahi.n sa.ngrAma .. 55 ..
+rAma teja bala budhi bipulA_I. seSha sahasa sata sakahiM na gAI ..
+saka sara eka soShi sata sAgara. taba bhrAtahi pU.Nchhe_u naya nAgara ..
+tAsu bachana suni sAgara pAhI.n. mAgata pa.ntha kR^ipA mana mAhI.n ..
+sunata bachana bihasA dasasIsA. jau.n asi mati sahAya kR^ita kIsA ..
+sahaja bhIru kara bachana dR^i.DhA_I. sAgara sana ThAnI machalA_I ..
+mU.Dha mR^iShA kA karasi ba.DA_I. ripu bala buddhi thAha mai.n pA_I ..
+sachiva sabhIta bibhIShana jAke.n. bijaya bibhUti kahA.N jaga tAke.n ..
+suni khala bachana dUta risa bA.DhI. samaya bichAri patrikA kA.DhI ..
+rAmAnuja dInhI yaha pAtI. nAtha bachA_i ju.DAvahu chhAtI ..
+bihasi bAma kara lInhI rAvana. sachiva boli saTha lAga bachAvana ..
+do. bAtanha manahi rijhA_i saTha jani ghAlasi kula khIsa.
+rAma birodha na ubarasi sarana biShnu aja Isa .. 56(ka) ..
+kI taji mAna anuja iva prabhu pada pa.nkaja bhR^i.nga.
+hohi ki rAma sarAnala khala kula sahita pata.nga .. 56(kha) ..
+sunata sabhaya mana mukha musukA_I. kahata dasAnana sabahi sunA_I ..
+bhUmi parA kara gahata akAsA. laghu tApasa kara bAga bilAsA ..
+kaha suka nAtha satya saba bAnI. samujhahu chhA.Di prakR^iti abhimAnI ..
+sunahu bachana mama parihari krodhA. nAtha rAma sana tajahu birodhA ..
+ati komala raghubIra subhA_U. jadyapi akhila loka kara rA_U ..
+milata kR^ipA tumha para prabhu karihI. ura aparAdha na eka_u dharihI ..
+janakasutA raghunAthahi dIje. etanA kahA mora prabhu kIje.
+jaba tehi.n kahA dena baidehI. charana prahAra kInha saTha tehI ..
+nA_i charana siru chalA so tahA.N. kR^ipAsi.ndhu raghunAyaka jahA.N ..
+kari pranAmu nija kathA sunA_I. rAma kR^ipA.N Apani gati pA_I ..
+riShi agasti kI.n sApa bhavAnI. rAchhasa bhaya_u rahA muni gyAnI ..
+ba.ndi rAma pada bArahi.n bArA. muni nija Ashrama kahu.N pagu dhArA ..
+do. binaya na mAnata jaladhi ja.Da ga_e tIna dina bIti.
+bole rAma sakopa taba bhaya binu ho_i na prIti .. 57 ..
+lachhimana bAna sarAsana AnU. soShau.n bAridhi bisikha kR^isAnU ..
+saTha sana binaya kuTila sana prItI. sahaja kR^ipana sana su.ndara nItI ..
+mamatA rata sana gyAna kahAnI. ati lobhI sana birati bakhAnI ..
+krodhihi sama kAmihi hari kathA. Usara bIja ba_e.N phala jathA ..
+asa kahi raghupati chApa cha.DhAvA. yaha mata lachhimana ke mana bhAvA ..
+sa.nghAne_u prabhu bisikha karAlA. uThI udadhi ura a.ntara jvAlA ..
+makara uraga jhaSha gana akulAne. jarata ja.ntu jalanidhi jaba jAne ..
+kanaka thAra bhari mani gana nAnA. bipra rUpa Aya_u taji mAnA ..
+do. kATehi.n pa_i kadarI phara_i koTi jatana ko_u sI.ncha.
+binaya na mAna khagesa sunu DATehi.n pa_i nava nIcha .. 58 ..
+sabhaya si.ndhu gahi pada prabhu kere. chhamahu nAtha saba avaguna mere ..
+gagana samIra anala jala dharanI. inha ka_i nAtha sahaja ja.Da karanI ..
+tava prerita mAyA.N upajA_e. sR^iShTi hetu saba gra.nthani gA_e ..
+prabhu Ayasu jehi kaha.N jasa aha_I. so tehi bhA.Nti rahe sukha laha_I ..
+prabhu bhala kInhI mohi sikha dInhI. marajAdA puni tumharI kInhI ..
+Dhola gavA.Nra sUdra pasu nArI. sakala tA.DanA ke adhikArI ..
+prabhu pratApa mai.n jAba sukhA_I. utarihi kaTaku na mori ba.DA_I ..
+prabhu agyA apela shruti gA_I. karau.n so begi jau tumhahi sohA_I ..
+do. sunata binIta bachana ati kaha kR^ipAla musukA_i.
+jehi bidhi utarai kapi kaTaku tAta so kahahu upA_i .. 59 ..
+nAtha nIla nala kapi dvau bhA_I. larikA_I riShi AsiSha pA_I ..
+tinha ke parasa ki_e.N giri bhAre. tarihahi.n jaladhi pratApa tumhAre ..
+mai.n puni ura dhari prabhutA_I. kariha_u.N bala anumAna sahA_I ..
+ehi bidhi nAtha payodhi ba.NdhA_i_a. jehi.n yaha sujasu loka tihu.N gA_i_a ..
+ehi sara mama uttara taTa bAsI. hatahu nAtha khala nara agha rAsI ..
+suni kR^ipAla sAgara mana pIrA. turatahi.n harI rAma ranadhIrA ..
+dekhi rAma bala pauruSha bhArI. haraShi payonidhi bhaya_u sukhArI ..
+sakala charita kahi prabhuhi sunAvA. charana ba.ndi pAthodhi sidhAvA ..
+chha.n. nija bhavana gavane_u si.ndhu shrIraghupatihi yaha mata bhAya_U.
+yaha charita kali malahara jathAmati dAsa tulasI gAya_U .
+sukha bhavana sa.nsaya samana davana biShAda raghupati guna ganA .
+taji sakala Asa bharosa gAvahi sunahi sa.ntata saTha manA .. 60 ..
+do. sakala suma.ngala dAyaka raghunAyaka guna gAna.
+sAdara sunahi.n te tarahi.n bhava si.ndhu binA jalajAna .. 60 ..
+iti shrImadrAmacharitamAnase sakalakalikaluShavidhva.nsane
+pa~nchamaH sopAnaH samAptaH .
+(sundarakANDa samApta)

@@ -1,0 +1,14 @@
+city_id,name,slug,state_id,state_name,country_id,geo_scope,status,notes
+CTY-001,Varanasi (Kashi / Banaras),varanasi,ST-36,Uttar Pradesh,CTRY-01,india,in_progress,One of the oldest continuously inhabited cities in the world; Shiva's city.
+CTY-002,Ayodhya,ayodhya-city,ST-36,Uttar Pradesh,CTRY-01,india,in_progress,"Birthplace of Rama; already has a general ayodhya.mdx site page, this is its dedicated CITY page."
+CTY-003,Vrindavan,vrindavan-city,ST-36,Uttar Pradesh,CTRY-01,india,in_progress,Krishna's childhood playground; part of the wider Braj region alongside Mathura and Barsana.
+CTY-004,Mathura,mathura-city,ST-36,Uttar Pradesh,CTRY-01,india,in_progress,Krishna's birthplace; distinct from but adjoining Vrindavan within Braj.
+CTY-005,Haridwar,haridwar-city,ST-38,Uttarakhand,CTRY-01,india,in_progress,Gateway to the Char Dham; one of the four Kumbh Mela sites.
+CTY-006,Ujjain,ujjain-city,ST-18,Madhya Pradesh,CTRY-01,india,in_progress,Mahakaleshwar Jyotirlinga city; one of the four Kumbh Mela sites.
+CTY-007,Dwarka,dwarka-city,ST-10,Gujarat,CTRY-01,india,in_progress,Krishna's kingdom capital; one of the Char Dham of India.
+CTY-008,Puri,puri-city,ST-26,Odisha,CTRY-01,india,in_progress,Jagannath Temple city; one of the Char Dham of India.
+CTY-009,Rishikesh,rishikesh-city,ST-38,Uttarakhand,CTRY-01,india,in_progress,Yoga capital and gateway to the Char Dham of Uttarakhand.
+CTY-010,Pushkar,pushkar-city,ST-30,Rajasthan,CTRY-01,india,in_progress,"Site of the only major Brahma temple in India, beside its sacred lake."
+CTY-011,Prayagraj (Allahabad),prayagraj-city,ST-36,Uttar Pradesh,CTRY-01,india,in_progress,Triveni Sangam city; one of the four Kumbh Mela sites.
+CTY-012,Nashik,nashik-city,ST-20,Maharashtra,CTRY-01,india,in_progress,Trimbakeshwar Jyotirlinga city; one of the four Kumbh Mela sites.
+CTY-013,Gaya,gaya-city,ST-06,Bihar,CTRY-01,india,in_progress,"Vishnupad Temple city, centre of pind daan ancestral rites; adjoins (but is distinct from) Bodh Gaya."

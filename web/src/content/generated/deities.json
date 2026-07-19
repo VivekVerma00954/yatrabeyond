@@ -182,6 +182,18 @@
     "notes": "Consort of Krishna; Braj"
   },
   {
+    "deity_key": "sita",
+    "name": "Sita",
+    "deity_group": "vishnu",
+    "tradition": "Vaishnavism",
+    "aliases": [
+      "janaki",
+      "maithili",
+      "vaidehi"
+    ],
+    "notes": "Consort of Rama; Mithila. Added 2026-07-14 (was previously missing from the registry; several site pages used 'radha' as a placeholder key, now corrected)."
+  },
+  {
     "deity_key": "vitthala",
     "name": "Vitthala / Vithoba",
     "deity_group": "vishnu",
@@ -461,5 +473,108 @@
     "tradition": null,
     "aliases": [],
     "notes": "Jitiya / Jivitputrika"
+  },
+  {
+    "deity_key": "lakshmana",
+    "name": "Lakshmana",
+    "deity_group": "vishnu",
+    "tradition": "Vaishnavism",
+    "aliases": [
+      "laxman",
+      "lakshman"
+    ],
+    "notes": "Brother of Rama; avatar of Shesha; Lakshman temple at Rishikesh. Added 2026-07-16."
+  },
+  {
+    "deity_key": "brahma",
+    "name": "Brahma",
+    "deity_group": "brahma",
+    "tradition": "Smarta / Trimurti",
+    "aliases": [],
+    "notes": "Creator of the Trimurti; only major temple at Pushkar. Added 2026-07-16."
+  },
+  {
+    "deity_key": "navadurga",
+    "name": "Navadurga (collective)",
+    "deity_group": "navadurga",
+    "tradition": "Shaktism",
+    "aliases": [
+      "navdurga"
+    ],
+    "notes": "The nine forms of Durga as a set, worshipped over Navratri. Added 2026-07-18."
+  },
+  {
+    "deity_key": "shailaputri",
+    "name": "Shailaputri",
+    "deity_group": "navadurga",
+    "tradition": "Shaktism",
+    "aliases": [],
+    "notes": "First of the Navadurga; identified with Parvati as Himavat's daughter, previously Sati. Added 2026-07-18."
+  },
+  {
+    "deity_key": "brahmacharini",
+    "name": "Brahmacharini",
+    "deity_group": "navadurga",
+    "tradition": "Shaktism",
+    "aliases": [],
+    "notes": "Second of the Navadurga; Parvati in ascetic form. Added 2026-07-18."
+  },
+  {
+    "deity_key": "chandraghanta",
+    "name": "Chandraghanta",
+    "deity_group": "navadurga",
+    "tradition": "Shaktism",
+    "aliases": [],
+    "notes": "Third of the Navadurga; Shiva's shakti as Chandrashekhara. Added 2026-07-18."
+  },
+  {
+    "deity_key": "kushmanda",
+    "name": "Kushmanda",
+    "deity_group": "navadurga",
+    "tradition": "Shaktism",
+    "aliases": [],
+    "notes": "Fourth of the Navadurga; creator of the universe. Added 2026-07-18."
+  },
+  {
+    "deity_key": "skandamata",
+    "name": "Skandamata",
+    "deity_group": "navadurga",
+    "tradition": "Shaktism",
+    "aliases": [],
+    "notes": "Fifth of the Navadurga; mother of Kartikeya. Added 2026-07-18."
+  },
+  {
+    "deity_key": "katyayani",
+    "name": "Katyayani",
+    "deity_group": "navadurga",
+    "tradition": "Shaktism",
+    "aliases": [],
+    "notes": "Sixth of the Navadurga; slayer of Mahishasura; Tulja Bhavani, Bhosale family deity. Added 2026-07-18."
+  },
+  {
+    "deity_key": "kalaratri",
+    "name": "Kalaratri",
+    "deity_group": "navadurga",
+    "tradition": "Shaktism",
+    "aliases": [],
+    "notes": "Seventh of the Navadurga; often conflated with Kali. Added 2026-07-18."
+  },
+  {
+    "deity_key": "mahagauri",
+    "name": "Mahagauri",
+    "deity_group": "navadurga",
+    "tradition": "Shaktism",
+    "aliases": [],
+    "notes": "Eighth of the Navadurga. Added 2026-07-18."
+  },
+  {
+    "deity_key": "siddhidatri",
+    "name": "Siddhidatri",
+    "deity_group": "navadurga",
+    "tradition": "Shaktism",
+    "aliases": [
+      "siddhidhatri"
+    ],
+    "notes": "Ninth and last of the Navadurga. Added 2026-07-18."
   }
 ]

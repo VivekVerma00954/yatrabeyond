@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { cn } from "@/lib/cn";
 
 interface LogoProps {
@@ -15,14 +16,11 @@ const sizes = {
 };
 
 /**
- * Logo placeholder — swap the <svg> inside .logo-icon-slot with your final
- * SVG asset when it arrives. The wordmark font and colours are already wired
- * to brand tokens.
- *
- * To replace:
- *   1. Delete the placeholder SVG inside .logo-icon-slot
- *   2. Paste your final <svg> in its place (or use <Image> for a raster asset)
- *   3. Adjust the size prop as needed
+ * Logo icon: the "YB" mark, supplied 2026-07-19 as two raster PNGs (one
+ * drawn for light backgrounds, one for dark), both transparent, living at
+ * web/public/logo/logo-light.png and logo-dark.png. Both render at once and
+ * CSS toggles which is visible via Tailwind's `dark:` class, matching the
+ * `dark:text-brand-cream` pattern already used for the wordmark below.
  */
 export function Logo({ className, variant = "full", size = "md" }: LogoProps) {
   const { icon: iconSize, text: textSize } = sizes[size];
@@ -38,43 +36,26 @@ export function Logo({ className, variant = "full", size = "md" }: LogoProps) {
     >
       {variant !== "wordmark" && (
         // ── LOGO ICON SLOT ─────────────────────────────────────────────────
-        // Replace the SVG below with your final logo asset.
         <span
-          className="logo-icon-slot flex-shrink-0"
+          className="logo-icon-slot relative flex-shrink-0"
           style={{ width: iconSize, height: iconSize }}
-          aria-hidden="true"
         >
-          <svg
-            viewBox="0 0 36 36"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
+          <Image
+            src="/logo/logo-light.png"
+            alt="YatraBeyond"
             width={iconSize}
             height={iconSize}
-            role="img"
-            aria-label="YatraBeyond icon placeholder"
-          >
-            {/* Placeholder: stylised Om-inspired circle + peak */}
-            <circle cx="18" cy="18" r="17" fill="#3A2A1E" />
-            <path
-              d="M18 6 L28 26 H8 Z"
-              fill="none"
-              stroke="#C9A227"
-              strokeWidth="1.5"
-              strokeLinejoin="round"
-            />
-            <circle cx="18" cy="20" r="3.5" fill="#B5532E" />
-            <text
-              x="18"
-              y="21.5"
-              textAnchor="middle"
-              fontSize="5"
-              fontFamily="serif"
-              fill="#F4ECDD"
-              letterSpacing="0"
-            >
-              ॐ
-            </text>
-          </svg>
+            priority
+            className="block dark:hidden"
+          />
+          <Image
+            src="/logo/logo-dark.png"
+            alt="YatraBeyond"
+            width={iconSize}
+            height={iconSize}
+            priority
+            className="hidden dark:block"
+          />
         </span>
       )}
 
