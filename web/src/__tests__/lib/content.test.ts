@@ -16,7 +16,7 @@ describe("content library", () => {
       expect(site.deity).toBeTruthy();
       expect(site.heroImage).toBeTruthy();
       expect(site.heroImageAlt).toBeTruthy();
-      expect(Array.isArray(site.bestSeason)).toBe(true);
+      expect(site.bestSeason === undefined || Array.isArray(site.bestSeason)).toBe(true);
       expect(Array.isArray(site.sources)).toBe(true);
       expect(typeof site.familySuitable).toBe("boolean");
     }

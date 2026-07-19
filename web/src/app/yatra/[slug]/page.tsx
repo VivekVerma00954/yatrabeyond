@@ -134,7 +134,10 @@ export default function SitePage({ params }: PageProps) {
               {site.name}
             </h1>
             <p className="mt-1 font-sans text-sm text-white/70">
-              Deity: {site.deity} · Best: {site.bestSeason.join(", ")}
+              Deity: {site.deity}
+              {(site.bestSeason?.length ?? 0) > 0 && (
+                <> · Best: {(site.bestSeason ?? []).join(", ")}</>
+              )}
             </p>
           </div>
         </div>

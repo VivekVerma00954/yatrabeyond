@@ -77,7 +77,7 @@ export interface SacredSiteFrontmatter {
   featured?: boolean;
 
   // Discovery & filters
-  bestSeason: Season[];
+  bestSeason?: Season[];
   accessibilityLevel: AccessibilityLevel;
   accessibilityNotes?: string;
   altitude?: number;   // metres above sea level

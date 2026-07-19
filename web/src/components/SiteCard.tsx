@@ -72,8 +72,12 @@ export function SiteCard({ site, className, featured = false }: SiteCardProps) {
 
         <div className="mt-3 flex items-center justify-between">
           <span className="font-sans text-xs text-brand-brown/50 dark:text-brand-cream/50">
-            Best: {site.bestSeason.slice(0, 3).join(", ")}
-            {site.bestSeason.length > 3 && "…"}
+            {(site.bestSeason?.length ?? 0) > 0 && (
+              <>
+                Best: {(site.bestSeason ?? []).slice(0, 3).join(", ")}
+                {(site.bestSeason ?? []).length > 3 && "…"}
+              </>
+            )}
           </span>
           <Link
             href={`/yatra/${site.slug}`}

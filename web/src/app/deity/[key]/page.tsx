@@ -16,11 +16,11 @@ interface PageProps {
 }
 
 // Deity-profile section nav config: order and labels.
-const PROFILE_SECTIONS: Array<{
+const PROFILE_SECTIONS: {
   id: string;
   title: string;
   field: keyof NonNullable<ReturnType<typeof getDeityProfileByKey>>;
-}> = [
+}[] = [
   { id: "who-is", title: "Who is {name}", field: "quickIdentity" },
   { id: "names", title: "Names & Epithets", field: "namesAndEpithets" },
   { id: "iconography", title: "Iconography & Symbols", field: "iconographyAndSymbols" },

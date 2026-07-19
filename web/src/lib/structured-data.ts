@@ -63,7 +63,7 @@ export function siteJsonLd(site: SacredSite) {
     image: site.heroImage.startsWith("http")
       ? site.heroImage
       : `${SITE_URL}${site.heroImage}`,
-    ...(site.bestSeason.length > 0 && {
+    ...((site.bestSeason?.length ?? 0) > 0 && {
       tourBookingPage: `${SITE_URL}/yatra/${site.slug}#pilgrimage-info`,
     }),
   };

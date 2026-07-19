@@ -35,7 +35,7 @@ export function YatraClient({ allSites, regions }: Props) {
     let filtered = allSites;
     if (region) filtered = filtered.filter((s) => s.region.toLowerCase() === region.toLowerCase());
     if (tradition) filtered = filtered.filter((s) => s.tradition === tradition);
-    if (season) filtered = filtered.filter((s) => s.bestSeason.includes(season as Season));
+    if (season) filtered = filtered.filter((s) => (s.bestSeason ?? []).includes(season as Season));
     if (familyOnly) filtered = filtered.filter((s) => s.familySuitable);
     return filtered;
   }, [allSites, region, tradition, season, familyOnly]);
